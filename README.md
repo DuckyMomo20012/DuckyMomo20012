@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @DuckyMomo20012
+- 👋 Hi, I’m Duong Tien Vinh aka @DuckyMomo20012
 - 🌱 I’m currently learning frontend
 - 📫 How to reach me tienvinh.duong4@gmail.com
