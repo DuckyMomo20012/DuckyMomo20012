@@ -8,7 +8,7 @@
             <p><img src="./assets/love.gif" width="22px" height="22px" alt="pepe-loving"/> Love to read tech blogs and explore new web technologies, frameworks, libraries.</p>
         </td>
         <td>
-            <img src="./assets/avatar.jpg" width="300" alt="Duong Vinh avatar"/>
+            <img src="./assets/avatar.JPG" width="300" alt="Duong Vinh avatar"/>
         </td>
     </tr>
 </table>
@@ -199,6 +199,6 @@
 ## GITHUB STATS:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github most used languages" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github stats" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github most used languages" />
 </p>
