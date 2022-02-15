@@ -8,7 +8,7 @@
             <p><img src="./assets/love.gif" width="22px" height="22px" alt="pepe-loving"/> Love to read tech blogs and explore new web technologies, frameworks, libraries.</p>
         </td>
         <td>
-            <img src="./assets/avatar.JPG" width="300" alt="Duong Vinh avatar"/>
+            <img src="./assets/avatar.jpg" width="300" alt="Duong Vinh avatar"/>
         </td>
     </tr>
 </table>
