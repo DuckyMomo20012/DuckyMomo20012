@@ -280,9 +280,13 @@ Dark Mode:
 - line= #7DA3A3
 - point= #EA6962 -->
 
-![DuckyMomo20012's github activity
-graph](https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=504945&color=d4be98&line=7da3a3&point=ea6962&area=true&hide_border=true#gh-light-mode-only)
-![DuckyMomo20012's github activity graph](https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=ddc7a1&color=7c6f64&line=7da3a3&point=ea6962&area=true&hide_border=true#gh-dark-mode-only)
+<!-- <img
+src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=504945&color=d4be98&line=7da3a3&point=ea6962&area=true&hide_border=true#gh-light-mode-only"
+alt="DuckyMomo20012's github activity graph"/>
+<img src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=ddc7a1&color=7c6f64&line=7da3a3&point=ea6962&area=true&hide_border=true#gh-dark-mode-only" alt="DuckyMomo20012's github activity graph"/> -->
+<img
+src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=504945&color=d4be98&line=7da3a3&point=ea6962&area=true&hide_border=true"
+alt="DuckyMomo20012's github activity graph"/>
 
 ---
 
@@ -305,9 +309,11 @@ Top Languages config:
 - langs_count=10 -->
 
 <p align="center">
-    <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945#gh-light-mode-only" alt="Duong Vinh's github stats" />
+    <!-- <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945#gh-light-mode-only" alt="Duong Vinh's github stats" />
     <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=7c6f64&text_color=7c6f64&icon_color=ea6962&bg_color=ddc7a1#gh-dark-mode-only" alt="Duong Vinh's github stats" />
     <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945#gh-light-mode-only" alt="Duong Vinh's github most used languages" />
-    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=7c6f64&text_color=7c6f64&icon_color=ea6962&bg_color=ddc7a1#gh-dark-mode-only" alt="Duong Vinh's github most used languages" />
+    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=7c6f64&text_color=7c6f64&icon_color=ea6962&bg_color=ddc7a1#gh-dark-mode-only" alt="Duong Vinh's github most used languages" /> -->
+    <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github stats" />
+    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github most used languages" />
 </p>
 
