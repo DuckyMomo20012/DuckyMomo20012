@@ -198,6 +198,15 @@
         </td>
     </tr>
     <tr>
+        <td>Routing</td>
+        <td align="center">
+            <img src="./assets/react_router_logo.svg" height="32px" alt="react_router" />
+            <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
+        </td>
+        <td align="center">
+        </td>
+    </tr>
+    <tr>
         <td>State Management</td>
         <td align="center">
             <img src="./assets/redux_logo.svg" height="32px" alt="redux"/>
@@ -316,4 +325,3 @@ Top Languages config:
     <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github stats" />
     <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github most used languages" />
 </p>
-
