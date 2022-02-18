@@ -4,40 +4,46 @@
     Hi, I’m Duong Tien Vinh
 </h1>
 
-> 🔮: Toggle to Dark/Light mode to see magics.
-## 🥷 ABOUT ME:
+> 🔮: Toggle to 🌙/☀️ mode to see magics.
+
+## 🦄 ABOUT ME:
 
 <table>
     <tr>
         <td>
             <p>
                 <img src="./assets/pepe_study.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_reading"/>
-                <img src="./assets/cat_shoot.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_shoot"/>
-                I am a third-year undergraduate student at VNUHCM-University of Science, majoring in Computer Networks & Cybersecurity.
+                <img src="./assets/cat_coin.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_coin"/>
+                &nbsp;
+                I am a third-year undergraduate student at <b>VNUHCM-University of Science</b>, majoring in <b>Computer Networks & Cybersecurity</b>.
             </p>
             <p>
                 <img src="./assets/pepe_workout.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_workout"/>
-                <img src="./assets/cat_smash.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_smash"/>
-                I am currently learning React ⚛️ for Front-End Development.
+                <img src="./assets/cat_working.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_working"/>
+                &nbsp;
+                I am currently learning <code>React ⚛️</code> for Front-End Development.
             </p>
             <p>
                 <img src="./assets/pepe_depressed.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_depressed"/>
                 <img src="./assets/cat_dead.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_dead"/>
+                &nbsp;
                 Kinda self-motivated learner.
             </p>
             <p>
                 <img src="./assets/pepe_love.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_love"/>
                 <img src="./assets/cat_happy.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_happy"/>
+                &nbsp;
                 Eager for new web technologies, frameworks, libraries.
             </p>
             <p>
                 <img src="./assets/pepe_song.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_song"/>
-                <img src="./assets/cat_music.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_music"/>
+                <img src="./assets/cat_rolling.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_rolling"/>
+                &nbsp;
                 Hobby: sleep, read tech blogs, listen to music.
             </p>
         </td>
         <td>
-            <img src="./assets/avatar.jpg" width="300px" alt="Duong Vinh avatar"/>
+            <img src="./assets/avatar.jpg" width="300px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
         </td>
     </tr>
 </table>
@@ -55,42 +61,42 @@
     <tr>
         <td>Framework</td>
         <td>
-            <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs"/>
+            <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
             &nbsp;
         </td>
         <td>
-            <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs"/>
-            <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs"/>
+            <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
+            <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
             &nbsp;
-            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs"/>
-            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs"/>
+            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
             &nbsp;
         </td>
     </tr>
     <tr>
         <td>Languages</td>
         <td>
-            <img src="./assets/file_type_html.svg" height="32px" alt="html"/>
+            <img src="./assets/file_type_html.svg" height="32px" alt="html" title="HTML"/>
             &nbsp;
-            <img src="./assets/file_type_css.svg" height="32px" alt="css"/>
+            <img src="./assets/file_type_css.svg" height="32px" alt="css" title="CSS"/>
             &nbsp;
-            <img src="./assets/file_type_js_official.svg" height="32px" alt="javascript"/>
+            <img src="./assets/file_type_js_official.svg" height="32px" alt="javascript" title="Javascript"/>
             &nbsp;
-            <img src="./assets/file_type_python.svg" height="32px" alt="python"/>
+            <img src="./assets/file_type_python.svg" height="32px" alt="python" title="Python"/>
             &nbsp;
-            <img src="./assets/file_type_handlebars.svg" height="32px" alt="handlebars"/>
+            <img src="./assets/file_type_handlebars.svg" height="32px" alt="handlebars" title="Handlebars"/>
         </td>
         <td>
-            <img src="./assets/file_type_typescript_official.svg" height="32px" alt="typescript"/>
+            <img src="./assets/file_type_typescript_official.svg" height="32px" alt="typescript" title="Typescript"/>
             &nbsp;
-            <img src="./assets/file_type_graphql.svg" height="32px" alt="graphql"/>
+            <img src="./assets/file_type_graphql.svg" height="32px" alt="graphql" title="GraphQL"/>
             &nbsp;
         </td>
     </tr>
     <tr>
         <td>Database</td>
         <td>
-            <img src="./assets/file_type_mongo.svg" height="32px" alt="mongodb"/>
+            <img src="./assets/file_type_mongo.svg" height="32px" alt="mongodb" title="MongoDB"/>
             &nbsp;
         </td>
         <td>
@@ -99,23 +105,23 @@
     <tr>
         <td>CI/CD</td>
         <td>
-            <img src="./assets/file_type_docker.svg" height="32px" alt="dockerfile"/>
+            <img src="./assets/file_type_docker.svg" height="32px" alt="dockerfile" title="Docker"/>
             &nbsp;
-            <img src="./assets/file_type_jenkins.svg" height="32px" alt="jenkinsfile"/>
+            <img src="./assets/file_type_jenkins.svg" height="32px" alt="jenkinsfile" title="Jenkins"/>
             &nbsp;
         </td>
         <td>
-            <img src="./assets/kubernetes_logo.svg" height="32px" alt="kubernetes"/>
+            <img src="./assets/kubernetes_logo.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
             &nbsp;
         </td>
     </tr>
     <tr>
         <td>Source Code Management (SCM)</td>
         <td>
-            <img src="./assets/file_type_git.svg" height="32px" alt="git"/>
+            <img src="./assets/file_type_git.svg" height="32px" alt="git" title="Git"/>
             &nbsp;
-            <img src="./assets/github_logo.svg#gh-light-mode-only" height="32px" alt="github"/>
-            <img src="./assets/github_logo_white.svg#gh-dark-mode-only" height="32px" alt="github"/>
+            <img src="./assets/github_logo.svg#gh-light-mode-only" height="32px" alt="github" title="Github"/>
+            <img src="./assets/github_logo_white.svg#gh-dark-mode-only" height="32px" alt="github" title="Github"/>
             &nbsp;
         </td>
         <td>
@@ -124,10 +130,10 @@
     <tr>
         <td>Lint Tools, Formatters</td>
         <td>
-            <img src="./assets/file_type_eslint.svg" height="32px" alt="eslint"/>
+            <img src="./assets/file_type_eslint.svg" height="32px" alt="eslint" title="ESLint"/>
             &nbsp;
-            <img src="./assets/file_type_prettier.svg#gh-light-mode-only" height="32px" alt="prettier"/>
-            <img src="./assets/file_type_light_prettier.svg#gh-dark-mode-only" height="32px" alt="prettier"/>
+            <img src="./assets/file_type_prettier.svg#gh-light-mode-only" height="32px" alt="prettier" title="Prettier"/>
+            <img src="./assets/file_type_light_prettier.svg#gh-dark-mode-only" height="32px" alt="prettier" title="Prettier"/>
             &nbsp;
         </td>
         <td>
@@ -136,7 +142,7 @@
     <tr>
         <td>Text Editor</td>
         <td>
-            <img src="./assets/file_type_vscode.svg" height="32px" alt="vscode"/>
+            <img src="./assets/file_type_vscode.svg" height="32px" alt="vscode" title="VSCode"/>
             &nbsp;
         </td>
         <td>
@@ -145,28 +151,27 @@
     <tr>
         <td>Design Tools</td>
         <td>
-            <img src="./assets/figma_logo.svg" height="32px" alt="figma"/>
+            <img src="./assets/figma_logo.svg" height="32px" alt="figma" title="Figma"/>
             &nbsp;
         </td>
         <td>
-            <img src="./assets/canva_logo.png" height="32px" alt="canva"/>
+            <img src="./assets/canva_logo.png" height="32px" alt="canva" title="Canva"/>
             &nbsp;
         </td>
     </tr>
     <tr>
         <td>Team Collaboration Tools</td>
         <td>
-            <img src="./assets/notion_logo.svg" height="32px" alt="notion"/>
+            <img src="./assets/notion_logo.svg" height="32px" alt="notion" title="Notion"/>
             &nbsp;
-            <img src="./assets/trello_logo.svg#gh-light-mode-only" height="32px" alt="trello"/>
-            <img src="./assets/trello_logo_white.svg#gh-dark-mode-only" height="32px" alt="trello"/>
+            <img src="./assets/trello_logo.svg" height="32px" alt="trello" title="Trello"/>
             &nbsp;
-            <img src="./assets/slack_logo.svg" height="32px" alt="slack"/>
+            <img src="./assets/slack_logo.svg" height="32px" alt="slack" title="Slack"/>
             &nbsp;
         </td>
         <td>
-            <img src="./assets/asana_logo.svg#gh-light-mode-only" height="32px" alt="asana"/>
-            <img src="./assets/asana_logo_white.svg#gh-dark-mode-only" height="32px" alt="asana"/>
+            <img src="./assets/asana_logo.svg#gh-light-mode-only" height="32px" alt="asana" title="Asana"/>
+            <img src="./assets/asana_logo_white.svg#gh-dark-mode-only" height="32px" alt="asana" title="Asana"/>
             &nbsp;
         </td>
     </tr>
@@ -185,22 +190,22 @@
     <tr>
         <td>Framework</td>
         <td align="center">
-            <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs" />
+            <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
             <p align="center"><code><a href="https://reactjs.org/">React</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs"/>
-            <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs"/>
+            <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
+            <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
             <p align="center"><code><a href="https://www.solidjs.com/">SolidJS</a></code></p>
-            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs"/>
-            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs"/>
+            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
             <p align="center"><code><a href="https://nextjs.org/">NextJS</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Routing</td>
         <td align="center">
-            <img src="./assets/react_router_logo.svg" height="32px" alt="react_router" />
+            <img src="./assets/react_router_logo.svg" height="32px" alt="react_router" title="React Router v6"/>
             <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
         </td>
         <td align="center">
@@ -209,20 +214,20 @@
     <tr>
         <td>State Management</td>
         <td align="center">
-            <img src="./assets/redux_logo.svg" height="32px" alt="redux"/>
+            <img src="./assets/redux_logo.svg" height="32px" alt="redux" title="Redux Toolkit"/>
             <p align="center"><code><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/recoil_logo.svg#gh-light-mode-only" height="32px" alt="recoil"/>
-            <img src="./assets/recoil_logo_white.svg#gh-dark-mode-only" height="32px" alt="recoil"/>
+            <img src="./assets/recoil_logo.svg#gh-light-mode-only" height="32px" alt="recoil" title="Recoil"/>
+            <img src="./assets/recoil_logo_white.svg#gh-dark-mode-only" height="32px" alt="recoil" title="Recoil"/>
             <p align="center"><code><a href="https://recoiljs.org/">Recoil</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Data Fetching</td>
         <td align="center">
-            <img src="./assets/react_query_logo.svg#gh-light-mode-only" height="32px" alt="react_query"/>
-            <img src="./assets/react_query_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_query"/>
+            <img src="./assets/react_query_logo.svg#gh-light-mode-only" height="32px" alt="react_query" title="React Query"/>
+            <img src="./assets/react_query_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_query" title="React Query"/>
             <p align="center"><code><a href="https://react-query.tanstack.com/">Redux Query</a></code></p>
         </td>
         <td align="center">
@@ -231,33 +236,33 @@
     <tr>
         <td>Component Styling</td>
         <td align="center">
-            <img src="./assets/windi_css_logo.svg" height="32px" alt="windicss"/>
+            <img src="./assets/windi_css_logo.svg" height="32px" alt="windicss" title="WindiCSS"/>
             <p align="center"><code><a href="https://windicss.org/">WindiCSS</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/vanilla_extract_logo.svg" height="32px" alt="vanilla_extract"/>
+            <img src="./assets/vanilla_extract_logo.svg" height="32px" alt="vanilla_extract" title="Vanilla Extract"/>
             <p align="center"><code><a href="https://vanilla-extract.style/">Vanilla Extract</a></code></p>
         </td>
     </tr>
     <tr>
         <td>UI Component Library</td>
         <td align="center">
-            <img src="./assets/mantine_logo.svg#gh-light-mode-only" height="32px" alt="mantine"/>
-            <img src="./assets/mantine_logo_white.svg#gh-dark-mode-only" height="32px" alt="mantine"/>
+            <img src="./assets/mantine_logo.svg#gh-light-mode-only" height="32px" alt="mantine" title="Mantine"/>
+            <img src="./assets/mantine_logo_white.svg#gh-dark-mode-only" height="32px" alt="mantine" title="Mantine"/>
             <p align="center"><code><a href="https://mantine.dev/">Mantine</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/ant_design_logo.svg" height="32px" alt="ant_design"/>
+            <img src="./assets/ant_design_logo.svg" height="32px" alt="ant_design" title="Ant Design"/>
             <p align="center"><code><a href="https://ant.design/">Ant Design</a></code></p>
-            <img src="./assets/chakra_logo.svg#gh-light-mode-only" height="32px" alt="chakra"/>
-            <img src="./assets/chakra_logo_white.svg#gh-dark-mode-only" height="32px" alt="chakra"/>
+            <img src="./assets/chakra_logo.svg#gh-light-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
+            <img src="./assets/chakra_logo_white.svg#gh-dark-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
             <p align="center"><code><a href="https://chakra-ui.com/">Chakra UI</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Build Tool</td>
         <td align="center">
-            <img src="./assets/vite_logo.svg" height="32px" alt="vite"/>
+            <img src="./assets/vite_logo.svg" height="32px" alt="vite" title="Vite"/>
             <p align="center"><code><a href="https://vitejs.dev/">Vite</a></code></p>
         </td>
         <td align="center">
@@ -267,15 +272,16 @@
 
 ---
 
-## 🤙 CONTACT ME:
+## ☎️ CONTACT ME:
 
-<p>✉️: tienvinh.duong4@gmail.com</p>
-<a href="https://www.linkedin.com/in/duong-tien-vinh-492b231a4"><img src="./assets/linkedin_logo.svg" height="32px" alt="linkedin"/></a>
-<a href="https://twitter.com/duckymomo20012"><img src="./assets/twitter_logo.svg" height="32px" alt="twitter"/></a>
+<p>📫: tienvinh.duong4@gmail.com</p>
+<a href="https://www.linkedin.com/in/duong-tien-vinh-492b231a4"><img src="./assets/linkedin_logo.svg" height="32px" alt="linkedin" title="My LinkedIn profile"/></a>
+&nbsp;
+<a href="https://twitter.com/duckymomo20012"><img src="./assets/twitter_logo.svg" height="32px" alt="twitter" title="My Twitter account"/></a>
 
 ---
 
-## 🙌 CONTRIBUTION GRAPH:
+## 📈 CONTRIBUTION GRAPH:
 
 <!-- Light Mode:
 - bg_color= #504945
@@ -293,13 +299,15 @@ Dark Mode:
 src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=504945&color=d4be98&line=7da3a3&point=ea6962&area=true&hide_border=true#gh-light-mode-only"
 alt="DuckyMomo20012's github activity graph"/>
 <img src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=ddc7a1&color=7c6f64&line=7da3a3&point=ea6962&area=true&hide_border=true#gh-dark-mode-only" alt="DuckyMomo20012's github activity graph"/> -->
+
 <img
 src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=504945&color=d4be98&line=7da3a3&point=ea6962&area=true&hide_border=true"
-alt="DuckyMomo20012's github activity graph"/>
+alt="DuckyMomo20012's github activity graph. You may reload it again to see it
+😅" title="My recent Github activities"/>
 
 ---
 
-## 📈 GITHUB STATS:
+## 🏆 GITHUB STATS:
 
 <!-- Light Mode:
 - title_color= #D4BE98
@@ -322,6 +330,6 @@ Top Languages config:
     <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=7c6f64&text_color=7c6f64&icon_color=ea6962&bg_color=ddc7a1#gh-dark-mode-only" alt="Duong Vinh's github stats" />
     <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945#gh-light-mode-only" alt="Duong Vinh's github most used languages" />
     <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=7c6f64&text_color=7c6f64&icon_color=ea6962&bg_color=ddc7a1#gh-dark-mode-only" alt="Duong Vinh's github most used languages" /> -->
-    <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github stats" />
-    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github most used languages" />
+    <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github stats" title="My statistics"/>
+    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github most used languages" title="My most used languages"/>
 </p>
