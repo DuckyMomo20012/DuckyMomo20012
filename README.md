@@ -1,46 +1,27 @@
-<h1>
-    <img src="./assets/rainbowcat.gif#gh-light-mode-only" height="32px" alt="rainbow_cat"/>
-    <img src="./assets/cat_laugh.gif#gh-dark-mode-only" height="32px" alt="cat_laugh"/>
-    Hi, I’m Duong Tien Vinh
-</h1>
+# Hi, I’m Duong Tien Vinh
 
-> 🔮: Toggle to 🌙/☀️ mode to see magics.
+> 🔮: Toggle to 🌙/☀️ mode to see image changes.
 
 ## 🦄 ABOUT ME:
 
 <table>
     <tr>
         <td>
-            <p>
-                <img src="./assets/pepe_study.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_reading"/>
-                <img src="./assets/cat_coin.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_coin"/>
-                &nbsp;
+            <li>
                 I am a third-year undergraduate student at <b>VNUHCM-University of Science</b>, majoring in <b>Computer Networks & Cybersecurity</b>.
-            </p>
-            <p>
-                <img src="./assets/pepe_workout.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_workout"/>
-                <img src="./assets/cat_working.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_working"/>
-                &nbsp;
+            </li>
+            <li>
                 I am currently learning <code>React ⚛️</code> for Front-End Development.
-            </p>
-            <p>
-                <img src="./assets/pepe_depressed.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_depressed"/>
-                <img src="./assets/cat_dead.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_dead"/>
-                &nbsp;
+            </li>
+            <li>
                 Kinda self-motivated learner.
-            </p>
-            <p>
-                <img src="./assets/pepe_love.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_love"/>
-                <img src="./assets/cat_happy.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_happy"/>
-                &nbsp;
+            </li>
+            <li>
                 Eager for new web technologies, frameworks, libraries.
-            </p>
-            <p>
-                <img src="./assets/pepe_song.gif#gh-light-mode-only" width="26px" height="26px" alt="pepe_song"/>
-                <img src="./assets/cat_rolling.gif#gh-dark-mode-only" width="26px" height="26px" alt="cat_rolling"/>
-                &nbsp;
+            </li>
+            <li>
                 Hobby: sleep, read tech blogs, listen to music.
-            </p>
+            </li>
         </td>
         <td>
             <img src="./assets/avatar.jpg" width="300px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
@@ -295,14 +276,9 @@ Dark Mode:
 - line= #7DA3A3
 - point= #EA6962 -->
 
-<!-- <img
-src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=504945&color=d4be98&line=7da3a3&point=ea6962&area=true&hide_border=true#gh-light-mode-only"
-alt="DuckyMomo20012's github activity graph"/>
-<img src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=ddc7a1&color=7c6f64&line=7da3a3&point=ea6962&area=true&hide_border=true#gh-dark-mode-only" alt="DuckyMomo20012's github activity graph"/> -->
-
 <img
 src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=504945&color=d4be98&line=7da3a3&point=ea6962&area=true&hide_border=true"
-alt="DuckyMomo20012's github activity graph. You may reload it again to see it
+alt="DuckyMomo20012's github activity graph. You may reload the page again to see it
 😅" title="My recent Github activities"/>
 
 ---
@@ -326,10 +302,6 @@ Top Languages config:
 - langs_count=10 -->
 
 <p align="center">
-    <!-- <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945#gh-light-mode-only" alt="Duong Vinh's github stats" />
-    <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=7c6f64&text_color=7c6f64&icon_color=ea6962&bg_color=ddc7a1#gh-dark-mode-only" alt="Duong Vinh's github stats" />
-    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945#gh-light-mode-only" alt="Duong Vinh's github most used languages" />
-    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=7c6f64&text_color=7c6f64&icon_color=ea6962&bg_color=ddc7a1#gh-dark-mode-only" alt="Duong Vinh's github most used languages" /> -->
     <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github stats" title="My statistics"/>
     <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github most used languages" title="My most used languages"/>
 </p>
