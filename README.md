@@ -256,7 +256,7 @@
 ## ☎️ CONTACT ME:
 
 <p>📫: tienvinh.duong4@gmail.com</p>
-<a href="https://www.linkedin.com/in/duong-tien-vinh-492b231a4"><img src="./assets/linkedin_logo.svg" height="32px" alt="linkedin" title="My LinkedIn profile"/></a>
+<a href="https://www.linkedin.com/in/duong-tien-vinh"><img src="./assets/linkedin_logo.svg" height="32px" alt="linkedin" title="My LinkedIn profile"/></a>
 &nbsp;
 <a href="https://twitter.com/duckymomo20012"><img src="./assets/twitter_logo.svg" height="32px" alt="twitter" title="My Twitter account"/></a>
 
