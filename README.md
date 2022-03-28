@@ -65,7 +65,6 @@
             &nbsp;
             <img src="./assets/file_type_python.svg" height="32px" alt="python" title="Python"/>
             &nbsp;
-            <img src="./assets/file_type_handlebars.svg" height="32px" alt="handlebars" title="Handlebars"/>
         </td>
         <td>
             <img src="./assets/file_type_typescript_official.svg" height="32px" alt="typescript" title="Typescript"/>
@@ -78,6 +77,9 @@
         <td>Database</td>
         <td>
             <img src="./assets/file_type_mongo.svg" height="32px" alt="mongodb" title="MongoDB"/>
+            &nbsp;
+            <img src="./assets/sql_server_logo.svg#gh-light-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
+            <img src="./assets/sql_server_logo_white.svg#gh-dark-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
             &nbsp;
         </td>
         <td>
@@ -190,6 +192,9 @@
             <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
         </td>
         <td align="center">
+            <img src="./assets/react_location_logo.svg#gh-light-mode-only" height="32px" alt="react_location" title="React Location"/>
+            <img src="./assets/react_location_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_location" title="React Location"/>
+            <p align="center"><code><a href="https://react-location.tanstack.com/">React Location</a></code></p>
         </td>
     </tr>
     <tr>
@@ -256,6 +261,8 @@
 ## ☎️ CONTACT ME:
 
 <p>📫: tienvinh.duong4@gmail.com</p>
+<a href="mailto:tienvinh.duong4@gmail.com"><img src="./assets/gmail_logo.svg" height="32px" alt="gmail" title="Mail me"/></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/duong-tien-vinh"><img src="./assets/linkedin_logo.svg" height="32px" alt="linkedin" title="My LinkedIn profile"/></a>
 &nbsp;
 <a href="https://twitter.com/duckymomo20012"><img src="./assets/twitter_logo.svg" height="32px" alt="twitter" title="My Twitter account"/></a>
@@ -271,14 +278,14 @@
 - point= #EA6962
 
 Dark Mode:
-- bg_color= #DDC7A1
-- color= #7C6F64
-- line= #7DA3A3
-- point= #EA6962 -->
+- bg_color= #46464E
+- color= #E4E1E6
+- line= #B9C3FF
+- point= #E5BAD7 -->
 
 <img
-src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=504945&color=d4be98&line=7da3a3&point=ea6962&area=true&hide_border=true"
-alt="DuckyMomo20012's github activity graph. You may reload the page again to see it
+src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=46464E&color=E4E1E6&line=B9C3FF&point=E5BAD7&area=true&hide_border=true"
+alt="DuckyMomo20012's github activity graph. You may have to reload the page again to see it
 😅" title="My recent Github activities"/>
 
 ---
@@ -292,16 +299,17 @@ alt="DuckyMomo20012's github activity graph. You may reload the page again to se
 - bg_color= #504945
 
 Dark Mode:
-- title_color= #7C6F64
-- text_color= #7C6F64
-- icon_color= #EA6962
-- bg_color= #DDC7A1
+- title_color= #B9C3FF
+- text_color= #C6C5CF
+- icon_color= #E5BAD7
+- bg_color= #46464E
 
 Top Languages config:
 - layout=compact
 - langs_count=10 -->
 
 <p align="center">
-    <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github stats" title="My statistics"/>
-    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=d4be98&text_color=7da3a3&icon_color=ea6962&bg_color=504945" alt="Duong Vinh's github most used languages" title="My most used languages"/>
+    <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B9C3FF&text_color=C6C5CF&icon_color=E5BAD7&bg_color=46464E" alt="Duong Vinh's github stats" title="My statistics"/>
+    &nbsp;
+    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B9C3FF&text_color=C6C5CF&icon_color=E5BAD7&bg_color=46464E" alt="Duong Vinh's github most used languages" title="My most used languages"/>
 </p>
