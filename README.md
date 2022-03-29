@@ -214,7 +214,7 @@
         <td align="center">
             <img src="./assets/react_query_logo.svg#gh-light-mode-only" height="32px" alt="react_query" title="React Query"/>
             <img src="./assets/react_query_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_query" title="React Query"/>
-            <p align="center"><code><a href="https://react-query.tanstack.com/">Redux Query</a></code></p>
+            <p align="center"><code><a href="https://react-query.tanstack.com/">React Query</a></code></p>
         </td>
         <td align="center">
         </td>
