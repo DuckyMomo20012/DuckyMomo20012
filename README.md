@@ -81,6 +81,8 @@
             <img src="./assets/sql_server_logo.svg#gh-light-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
             <img src="./assets/sql_server_logo_white.svg#gh-dark-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
             &nbsp;
+            <img src="./assets/prisma_logo.svg" height="32px" alt="prisma" title="Prisma"/>
+            &nbsp;
         </td>
         <td>
         </td>
