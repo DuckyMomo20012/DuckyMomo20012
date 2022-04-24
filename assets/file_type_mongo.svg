@@ -3,12 +3,12 @@ xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32
 32"><defs><linearGradient id="a" x1="-645.732" y1="839.188" x2="-654.59"
 y2="839.25" gradientTransform="matrix(-0.977, -0.323, -0.29, 0.877, -375.944,
 -928.287)" gradientUnits="userSpaceOnUse"><stop offset="0.231"
-stop-color="#76536E"/><stop offset="0.563" stop-color="#916C88"/><stop
-offset="0.683" stop-color="#AC85A2"/><stop offset="0.768"
-stop-color="#C89FBD"/><stop offset="0.837" stop-color="#E5BAD9"/><stop
-offset="0.896" stop-color="#E5BAD9"/><stop offset="0.948"
-stop-color="#E5BAD9"/><stop offset="0.994" stop-color="#E5BAD9"/><stop
-offset="1" stop-color="#E5BAD9"/></linearGradient><linearGradient id="b"
+stop-color="#5A5D71"/><stop offset="0.563" stop-color="#73768B"/><stop
+offset="0.683" stop-color="#8C8FA5"/><stop offset="0.768"
+stop-color="#A7AAC1"/><stop offset="0.837" stop-color="#C3C5DD"/><stop
+offset="0.896" stop-color="#C3C5DD"/><stop offset="0.948"
+stop-color="#C3C5DD"/><stop offset="0.994" stop-color="#C3C5DD"/><stop
+offset="1" stop-color="#C3C5DD"/></linearGradient><linearGradient id="b"
 x1="-644.287" y1="823.405" x2="-657.028" y2="845.476"
 gradientTransform="matrix(-0.977, -0.323, -0.29, 0.877, -375.944, -928.287)"
 gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3453CD"/><stop

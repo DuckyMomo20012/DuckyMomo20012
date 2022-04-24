@@ -14,14 +14,14 @@
             <stop stop-color="#3453CD" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="69.6908165%" y1="-12.9743587%" x2="16.7228981%" y2="117.391248%" id="linearGradient-3">
-            <stop stop-color="#AC85A2" offset="0%"></stop>
-            <stop stop-color="#916C88" offset="41.472606%"></stop>
-            <stop stop-color="#76536E" offset="100%"></stop>
+            <stop stop-color="#8C8FA5" offset="0%"></stop>
+            <stop stop-color="#73768B" offset="41.472606%"></stop>
+            <stop stop-color="#5A5D71" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="68.1279872%" y1="-35.6905737%" x2="30.4400914%" y2="114.942679%" id="linearGradient-4">
-            <stop stop-color="#AC85A2" offset="0%"></stop>
-            <stop stop-color="#916C88" offset="51.2635191%"></stop>
-            <stop stop-color="#76536E" offset="100%"></stop>
+            <stop stop-color="#8C8FA5" offset="0%"></stop>
+            <stop stop-color="#73768B" offset="51.2635191%"></stop>
+            <stop stop-color="#5A5D71" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
