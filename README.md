@@ -38,7 +38,7 @@
             </li>
         </td>
         <td>
-            <img src="./assets/avatar.jpg" width="300px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/avatar.jpg" width="300px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
         </td>
     </tr>
 </table>
@@ -101,46 +101,46 @@ Last Updated on 24/04/2022 02:53:49 UTC
     <tr>
         <td>Framework</td>
         <td>
-            <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
             &nbsp;
-            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
-            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
             &nbsp;
         </td>
         <td>
-            <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
-            <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
             &nbsp;
         </td>
     </tr>
     <tr>
         <td>Languages</td>
         <td>
-            <img src="./assets/file_type_html.svg" height="32px" alt="html" title="HTML"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_html.svg" height="32px" alt="html" title="HTML"/>
             &nbsp;
-            <img src="./assets/file_type_css.svg" height="32px" alt="css" title="CSS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_css.svg" height="32px" alt="css" title="CSS"/>
             &nbsp;
-            <img src="./assets/file_type_js_official.svg" height="32px" alt="javascript" title="Javascript"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_js_official.svg" height="32px" alt="javascript" title="Javascript"/>
             &nbsp;
-            <img src="./assets/file_type_python.svg" height="32px" alt="python" title="Python"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_python.svg" height="32px" alt="python" title="Python"/>
             &nbsp;
         </td>
         <td>
-            <img src="./assets/file_type_typescript_official.svg" height="32px" alt="typescript" title="Typescript"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_typescript_official.svg" height="32px" alt="typescript" title="Typescript"/>
             &nbsp;
-            <img src="./assets/file_type_graphql.svg" height="32px" alt="graphql" title="GraphQL"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_graphql.svg" height="32px" alt="graphql" title="GraphQL"/>
             &nbsp;
         </td>
     </tr>
     <tr>
         <td>Database</td>
         <td>
-            <img src="./assets/file_type_mongo.svg" height="32px" alt="mongodb" title="MongoDB"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_mongo.svg" height="32px" alt="mongodb" title="MongoDB"/>
             &nbsp;
-            <img src="./assets/sql_server_logo.svg#gh-light-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
-            <img src="./assets/sql_server_logo_white.svg#gh-dark-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/sql_server_logo.svg#gh-light-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/sql_server_logo_white.svg#gh-dark-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
             &nbsp;
-            <img src="./assets/prisma_logo.svg" height="32px" alt="prisma" title="Prisma"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/prisma_logo.svg" height="32px" alt="prisma" title="Prisma"/>
             &nbsp;
         </td>
         <td>
@@ -149,23 +149,23 @@ Last Updated on 24/04/2022 02:53:49 UTC
     <tr>
         <td>CI/CD</td>
         <td>
-            <img src="./assets/file_type_docker.svg" height="32px" alt="dockerfile" title="Docker"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_docker.svg" height="32px" alt="dockerfile" title="Docker"/>
             &nbsp;
-            <img src="./assets/file_type_jenkins.svg" height="32px" alt="jenkinsfile" title="Jenkins"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_jenkins.svg" height="32px" alt="jenkinsfile" title="Jenkins"/>
             &nbsp;
         </td>
         <td>
-            <img src="./assets/kubernetes_logo.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/kubernetes_logo.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
             &nbsp;
         </td>
     </tr>
     <tr>
         <td>Source Code Management (SCM)</td>
         <td>
-            <img src="./assets/file_type_git.svg" height="32px" alt="git" title="Git"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_git.svg" height="32px" alt="git" title="Git"/>
             &nbsp;
-            <img src="./assets/github_logo.svg#gh-light-mode-only" height="32px" alt="github" title="Github"/>
-            <img src="./assets/github_logo_white.svg#gh-dark-mode-only" height="32px" alt="github" title="Github"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/github_logo.svg#gh-light-mode-only" height="32px" alt="github" title="Github"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/github_logo_white.svg#gh-dark-mode-only" height="32px" alt="github" title="Github"/>
             &nbsp;
         </td>
         <td>
@@ -174,10 +174,10 @@ Last Updated on 24/04/2022 02:53:49 UTC
     <tr>
         <td>Lint Tools, Formatters</td>
         <td>
-            <img src="./assets/file_type_eslint.svg" height="32px" alt="eslint" title="ESLint"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_eslint.svg" height="32px" alt="eslint" title="ESLint"/>
             &nbsp;
-            <img src="./assets/file_type_prettier.svg#gh-light-mode-only" height="32px" alt="prettier" title="Prettier"/>
-            <img src="./assets/file_type_light_prettier.svg#gh-dark-mode-only" height="32px" alt="prettier" title="Prettier"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_prettier.svg#gh-light-mode-only" height="32px" alt="prettier" title="Prettier"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_light_prettier.svg#gh-dark-mode-only" height="32px" alt="prettier" title="Prettier"/>
             &nbsp;
         </td>
         <td>
@@ -186,7 +186,7 @@ Last Updated on 24/04/2022 02:53:49 UTC
     <tr>
         <td>Text Editor</td>
         <td>
-            <img src="./assets/file_type_vscode.svg" height="32px" alt="vscode" title="VSCode"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_vscode.svg" height="32px" alt="vscode" title="VSCode"/>
             &nbsp;
         </td>
         <td>
@@ -195,27 +195,27 @@ Last Updated on 24/04/2022 02:53:49 UTC
     <tr>
         <td>Design Tools</td>
         <td>
-            <img src="./assets/figma_logo.svg" height="32px" alt="figma" title="Figma"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/figma_logo.svg" height="32px" alt="figma" title="Figma"/>
             &nbsp;
         </td>
         <td>
-            <img src="./assets/canva_logo.png" height="32px" alt="canva" title="Canva"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/canva_logo.png" height="32px" alt="canva" title="Canva"/>
             &nbsp;
         </td>
     </tr>
     <tr>
         <td>Team Collaboration Tools</td>
         <td>
-            <img src="./assets/notion_logo.svg" height="32px" alt="notion" title="Notion"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/notion_logo.svg" height="32px" alt="notion" title="Notion"/>
             &nbsp;
-            <img src="./assets/trello_logo.svg" height="32px" alt="trello" title="Trello"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/trello_logo.svg" height="32px" alt="trello" title="Trello"/>
             &nbsp;
-            <img src="./assets/slack_logo.svg" height="32px" alt="slack" title="Slack"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/slack_logo.svg" height="32px" alt="slack" title="Slack"/>
             &nbsp;
         </td>
         <td>
-            <img src="./assets/asana_logo.svg#gh-light-mode-only" height="32px" alt="asana" title="Asana"/>
-            <img src="./assets/asana_logo_white.svg#gh-dark-mode-only" height="32px" alt="asana" title="Asana"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/asana_logo.svg#gh-light-mode-only" height="32px" alt="asana" title="Asana"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/asana_logo_white.svg#gh-dark-mode-only" height="32px" alt="asana" title="Asana"/>
             &nbsp;
         </td>
     </tr>
@@ -234,47 +234,47 @@ Last Updated on 24/04/2022 02:53:49 UTC
     <tr>
         <td>Framework</td>
         <td align="center">
-            <img src="./assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
             <p align="center"><code><a href="https://reactjs.org/">React</a></code></p>
-            <img src="./assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
-            <img src="./assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
             <p align="center"><code><a href="https://nextjs.org/">NextJS</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
-            <img src="./assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
             <p align="center"><code><a href="https://www.solidjs.com/">SolidJS</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Routing</td>
         <td align="center">
-            <img src="./assets/react_router_logo.svg" height="32px" alt="react_router" title="React Router v6"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_router_logo.svg" height="32px" alt="react_router" title="React Router v6"/>
             <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/react_location_logo.svg#gh-light-mode-only" height="32px" alt="react_location" title="React Location"/>
-            <img src="./assets/react_location_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_location" title="React Location"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_location_logo.svg#gh-light-mode-only" height="32px" alt="react_location" title="React Location"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_location_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_location" title="React Location"/>
             <p align="center"><code><a href="https://react-location.tanstack.com/">React Location</a></code></p>
         </td>
     </tr>
     <tr>
         <td>State Management</td>
         <td align="center">
-            <img src="./assets/redux_logo.svg" height="32px" alt="redux" title="Redux Toolkit"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/redux_logo.svg" height="32px" alt="redux" title="Redux Toolkit"/>
             <p align="center"><code><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/recoil_logo.svg#gh-light-mode-only" height="32px" alt="recoil" title="Recoil"/>
-            <img src="./assets/recoil_logo_white.svg#gh-dark-mode-only" height="32px" alt="recoil" title="Recoil"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/recoil_logo.svg#gh-light-mode-only" height="32px" alt="recoil" title="Recoil"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/recoil_logo_white.svg#gh-dark-mode-only" height="32px" alt="recoil" title="Recoil"/>
             <p align="center"><code><a href="https://recoiljs.org/">Recoil</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Data Fetching</td>
         <td align="center">
-            <img src="./assets/react_query_logo.svg#gh-light-mode-only" height="32px" alt="react_query" title="React Query"/>
-            <img src="./assets/react_query_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_query" title="React Query"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_query_logo.svg#gh-light-mode-only" height="32px" alt="react_query" title="React Query"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_query_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_query" title="React Query"/>
             <p align="center"><code><a href="https://react-query.tanstack.com/">React Query</a></code></p>
         </td>
         <td align="center">
@@ -283,33 +283,33 @@ Last Updated on 24/04/2022 02:53:49 UTC
     <tr>
         <td>Component Styling</td>
         <td align="center">
-            <img src="./assets/windi_css_logo.svg" height="32px" alt="windicss" title="WindiCSS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/windi_css_logo.svg" height="32px" alt="windicss" title="WindiCSS"/>
             <p align="center"><code><a href="https://windicss.org/">WindiCSS</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/vanilla_extract_logo.svg" height="32px" alt="vanilla_extract" title="Vanilla Extract"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/vanilla_extract_logo.svg" height="32px" alt="vanilla_extract" title="Vanilla Extract"/>
             <p align="center"><code><a href="https://vanilla-extract.style/">Vanilla Extract</a></code></p>
         </td>
     </tr>
     <tr>
         <td>UI Component Library</td>
         <td align="center">
-            <img src="./assets/mantine_logo.svg#gh-light-mode-only" height="32px" alt="mantine" title="Mantine"/>
-            <img src="./assets/mantine_logo_white.svg#gh-dark-mode-only" height="32px" alt="mantine" title="Mantine"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/mantine_logo.svg#gh-light-mode-only" height="32px" alt="mantine" title="Mantine"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/mantine_logo_white.svg#gh-dark-mode-only" height="32px" alt="mantine" title="Mantine"/>
             <p align="center"><code><a href="https://mantine.dev/">Mantine</a></code></p>
         </td>
         <td align="center">
-            <img src="./assets/ant_design_logo.svg" height="32px" alt="ant_design" title="Ant Design"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/ant_design_logo.svg" height="32px" alt="ant_design" title="Ant Design"/>
             <p align="center"><code><a href="https://ant.design/">Ant Design</a></code></p>
-            <img src="./assets/chakra_logo.svg#gh-light-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
-            <img src="./assets/chakra_logo_white.svg#gh-dark-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/chakra_logo.svg#gh-light-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/chakra_logo_white.svg#gh-dark-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
             <p align="center"><code><a href="https://chakra-ui.com/">Chakra UI</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Build Tool</td>
         <td align="center">
-            <img src="./assets/vite_logo.svg" height="32px" alt="vite" title="Vite"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/vite_logo.svg" height="32px" alt="vite" title="Vite"/>
             <p align="center"><code><a href="https://vitejs.dev/">Vite</a></code></p>
         </td>
         <td align="center">
@@ -323,17 +323,17 @@ Last Updated on 24/04/2022 02:53:49 UTC
 
 <p>📫: tienvinh.duong4@gmail.com (Primary)</p>
 <p>📫: tienvinh.duong2@gmail.com (Secondary)</p>
-<a href="mailto:tienvinh.duong4@gmail.com"><img src="./assets/gmail_logo.svg" height="32px" width="32px" alt="gmail" title="Mail me"/></a>
+<a href="mailto:tienvinh.duong4@gmail.com"><img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/gmail_logo.svg" height="32px" width="32px" alt="gmail" title="Mail me"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/duong-tien-vinh"><img src="./assets/linkedin_logo.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/></a>
+<a href="https://www.linkedin.com/in/duong-tien-vinh"><img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/linkedin_logo.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/></a>
 &nbsp;
-<a href="https://twitter.com/duckymomo20012"><img src="./assets/twitter_logo.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/></a>
+<a href="https://twitter.com/duckymomo20012"><img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/twitter_logo.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/></a>
 &nbsp;
-<a href="https://t.me/duckymomo20012"><img src="./assets/telegram_logo.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/></a>
+<a href="https://t.me/duckymomo20012"><img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/telegram_logo.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/></a>
 &nbsp;
-<a href="https://join.skype.com/invite/xabx5AI61PJc"><img src="./assets/skype_logo.svg" height="32px" width="32px" alt="skype" title="My Skype account"/></a>
+<a href="https://join.skype.com/invite/xabx5AI61PJc"><img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/skype_logo.svg" height="32px" width="32px" alt="skype" title="My Skype account"/></a>
 &nbsp;
-<a href="https://discordapp.com/users/509778560224067605/"><img src="./assets/discord_logo.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/></a>
+<a href="https://discordapp.com/users/509778560224067605/"><img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/discord_logo.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/></a>
 
 ---
 
