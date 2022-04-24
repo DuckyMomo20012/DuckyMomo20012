@@ -48,40 +48,40 @@
 ## 🖥️ CODING ACTIVITY:
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    90 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-🌆 Daytime    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.43% 
-🌃 Evening    213 commits    █████████████░░░░░░░░░░░░   53.79% 
+🌞 Morning    90 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73%
+🌆 Daytime    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.43%
+🌃 Evening    213 commits    █████████████░░░░░░░░░░░░   53.79%
 🌙 Night      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
-JavaScript               25 hrs 32 mins      ██████████████████░░░░░░░   72.19% 
-SQL                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Python                   2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.79% 
-Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   5.75% 
+💬 Programming Languages:
+JavaScript               25 hrs 32 mins      ██████████████████░░░░░░░   72.19%
+SQL                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59%
+Python                   2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.79%
+Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
 
-🐱‍💻 Projects: 
-student-dashboard-nextjs 21 hrs 31 mins      ███████████████░░░░░░░░░░   60.83% 
-Unknown Project          5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-login-form-nextjs        4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-nextjs-template          1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+🐱‍💻 Projects:
+student-dashboard-nextjs 21 hrs 31 mins      ███████████████░░░░░░░░░░   60.83%
+Unknown Project          5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.38%
+login-form-nextjs        4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96%
+nextjs-template          1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.61%
 nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
 
 ```
 
+Last Updated on 24/04/2022 04:41:07 UTC
 
- Last Updated on 24/04/2022 04:41:07 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -99,13 +99,11 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
         <td>
             <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
             &nbsp;
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo.svg" height="32px" alt="nextjs" title="Next JS"/>
             &nbsp;
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo.svg" height="32px" alt="solidjs" title="Solid JS"/>
             &nbsp;
         </td>
     </tr>
@@ -133,8 +131,7 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
         <td>
             <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_mongo.svg" height="32px" alt="mongodb" title="MongoDB"/>
             &nbsp;
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/sql_server_logo.svg#gh-light-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/sql_server_logo_white.svg#gh-dark-mode-only" height="32px" alt="sql_server" title="SQL Server"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/sql_server_logo.svg" height="32px" alt="sql_server" title="SQL Server"/>
             &nbsp;
             <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/prisma_logo.svg" height="32px" alt="prisma" title="Prisma"/>
             &nbsp;
@@ -160,8 +157,7 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
         <td>
             <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_git.svg" height="32px" alt="git" title="Git"/>
             &nbsp;
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/github_logo.svg#gh-light-mode-only" height="32px" alt="github" title="Github"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/github_logo_white.svg#gh-dark-mode-only" height="32px" alt="github" title="Github"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/github_logo.svg" height="32px" alt="github" title="Github"/>
             &nbsp;
         </td>
         <td>
@@ -172,8 +168,7 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
         <td>
             <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_eslint.svg" height="32px" alt="eslint" title="ESLint"/>
             &nbsp;
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_prettier.svg#gh-light-mode-only" height="32px" alt="prettier" title="Prettier"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_light_prettier.svg#gh-dark-mode-only" height="32px" alt="prettier" title="Prettier"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_prettier.svg" height="32px" alt="prettier" title="Prettier"/>
             &nbsp;
         </td>
         <td>
@@ -210,8 +205,7 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
             &nbsp;
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/asana_logo.svg#gh-light-mode-only" height="32px" alt="asana" title="Asana"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/asana_logo_white.svg#gh-dark-mode-only" height="32px" alt="asana" title="Asana"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/asana_logo.svg" height="32px" alt="asana" title="Asana"/>
             &nbsp;
         </td>
     </tr>
@@ -232,13 +226,11 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
         <td align="center">
             <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
             <p align="center"><code><a href="https://reactjs.org/">React</a></code></p>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo.svg#gh-light-mode-only" height="32px" alt="nextjs" title="Next JS"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="nextjs" title="Next JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo.svg" height="32px" alt="nextjs" title="Next JS"/>
             <p align="center"><code><a href="https://nextjs.org/">NextJS</a></code></p>
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo.svg#gh-light-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo_white.svg#gh-dark-mode-only" height="32px" alt="solidjs" title="Solid JS"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo.svg" height="32px" alt="solidjs" title="Solid JS"/>
             <p align="center"><code><a href="https://www.solidjs.com/">SolidJS</a></code></p>
         </td>
     </tr>
@@ -249,8 +241,7 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
             <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_location_logo.svg#gh-light-mode-only" height="32px" alt="react_location" title="React Location"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_location_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_location" title="React Location"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_location_logo.svg" height="32px" alt="react_location" title="React Location"/>
             <p align="center"><code><a href="https://react-location.tanstack.com/">React Location</a></code></p>
         </td>
     </tr>
@@ -261,16 +252,14 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
             <p align="center"><code><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></code></p>
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/recoil_logo.svg#gh-light-mode-only" height="32px" alt="recoil" title="Recoil"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/recoil_logo_white.svg#gh-dark-mode-only" height="32px" alt="recoil" title="Recoil"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/recoil_logo.svg" height="32px" alt="recoil" title="Recoil"/>
             <p align="center"><code><a href="https://recoiljs.org/">Recoil</a></code></p>
         </td>
     </tr>
     <tr>
         <td>Data Fetching</td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_query_logo.svg#gh-light-mode-only" height="32px" alt="react_query" title="React Query"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_query_logo_white.svg#gh-dark-mode-only" height="32px" alt="react_query" title="React Query"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/react_query_logo.svg" height="32px" alt="react_query" title="React Query"/>
             <p align="center"><code><a href="https://react-query.tanstack.com/">React Query</a></code></p>
         </td>
         <td align="center">
@@ -290,15 +279,13 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
     <tr>
         <td>UI Component Library</td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/mantine_logo.svg#gh-light-mode-only" height="32px" alt="mantine" title="Mantine"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/mantine_logo_white.svg#gh-dark-mode-only" height="32px" alt="mantine" title="Mantine"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/mantine_logo.svg" height="32px" alt="mantine" title="Mantine"/>
             <p align="center"><code><a href="https://mantine.dev/">Mantine</a></code></p>
         </td>
         <td align="center">
             <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/ant_design_logo.svg" height="32px" alt="ant_design" title="Ant Design"/>
             <p align="center"><code><a href="https://ant.design/">Ant Design</a></code></p>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/chakra_logo.svg#gh-light-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/chakra_logo_white.svg#gh-dark-mode-only" height="32px" alt="chakra" title="Chakra UI"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/chakra_logo.svg" height="32px" alt="chakra" title="Chakra UI"/>
             <p align="center"><code><a href="https://chakra-ui.com/">Chakra UI</a></code></p>
         </td>
     </tr>
@@ -342,13 +329,13 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
 - point= #EA6962
 
 Dark Mode:
-- bg_color= #46464E
+- bg_color= #45464F
 - color= #E4E1E6
-- line= #B9C3FF
-- point= #E5BAD7 -->
+- line= #B7C4FF
+- point= #E5BAD9 -->
 
 <img
-src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=46464E&color=E4E1E6&line=B9C3FF&point=E5BAD7&area=true&hide_border=true"
+src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=45464F&color=E4E1E6&line=B7C4FF&point=E5BAD9&area=true&hide_border=true"
 alt="DuckyMomo20012's github activity graph. You may have to reload the page again to see it
 😅" title="My recent Github activities"/>
 
@@ -363,17 +350,17 @@ alt="DuckyMomo20012's github activity graph. You may have to reload the page aga
 - bg_color= #504945
 
 Dark Mode:
-- title_color= #B9C3FF
-- text_color= #C6C5CF
-- icon_color= #E5BAD7
-- bg_color= #46464E
+- title_color= #B7C4FF
+- text_color= #E4E1E6
+- icon_color= #E5BAD9
+- bg_color= #45464F
 
 Top Languages config:
 - layout=compact
 - langs_count=10 -->
 
 <p align="center">
-    <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B9C3FF&text_color=C6C5CF&icon_color=E5BAD7&bg_color=46464E" alt="Duong Vinh's github stats" title="My statistics"/>
+    <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github stats" title="My statistics"/>
     &nbsp;
-    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B9C3FF&text_color=C6C5CF&icon_color=E5BAD7&bg_color=46464E" alt="Duong Vinh's github most used languages" title="My most used languages"/>
+    <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github most used languages" title="My most used languages"/>
 </p>
