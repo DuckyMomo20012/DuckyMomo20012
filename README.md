@@ -1,6 +1,20 @@
 # Hi, I’m Duong Tien Vinh
 
-> 🔮: Toggle to 🌙/☀️ mode to see image changes.
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tienvinh.duong4@gmail.com)
+&nbsp;
+[![gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/DuckyMomo20012)
+&nbsp;
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-tien-vinh)
+&nbsp;
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/duckymomo20012)
+&nbsp;
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/duckymomo20012)
+&nbsp;
+[![skype](https://img.shields.io/badge/Skype-00AFF0?style=flat-square&logo=skype&logoColor=white)](https://join.skype.com/invite/xabx5AI61PJc)
+&nbsp;
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/509778560224067605/)
+
+> 🔮: Toggle to 🌙/☀️ mode to see image change.
 
 ## 🦄 ABOUT ME:
 
@@ -31,47 +45,47 @@
 
 ---
 
-## CODING ACTIVITY:
+## 🖥️ CODING ACTIVITY:
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    88 commits     █████░░░░░░░░░░░░░░░░░░░░   22.34% 
-🌆 Daytime    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
-🌃 Evening    213 commits    █████████████░░░░░░░░░░░░   54.06% 
+🌞 Morning    88 commits     █████░░░░░░░░░░░░░░░░░░░░   22.34%
+🌆 Daytime    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.53%
+🌃 Evening    213 commits    █████████████░░░░░░░░░░░░   54.06%
 🌙 Night      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
-JavaScript               25 hrs 32 mins      ██████████████████░░░░░░░   72.19% 
-SQL                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Python                   2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.79% 
-Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   5.75% 
+💬 Programming Languages:
+JavaScript               25 hrs 32 mins      ██████████████████░░░░░░░   72.19%
+SQL                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59%
+Python                   2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.79%
+Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
 
-🐱‍💻 Projects: 
-student-dashboard-nextjs 21 hrs 31 mins      ███████████████░░░░░░░░░░   60.83% 
-Unknown Project          5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-login-form-nextjs        4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-nextjs-template          1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+🐱‍💻 Projects:
+student-dashboard-nextjs 21 hrs 31 mins      ███████████████░░░░░░░░░░   60.83%
+Unknown Project          5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.38%
+login-form-nextjs        4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96%
+nextjs-template          1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.61%
 nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
 
 ```
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/charts/bar_graph.png)
 
+Last Updated on 24/04/2022 02:53:49 UTC
 
- Last Updated on 24/04/2022 02:53:49 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -307,12 +321,19 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
 
 ## ☎️ CONTACT ME:
 
-<p>📫: tienvinh.duong4@gmail.com</p>
-<a href="mailto:tienvinh.duong4@gmail.com"><img src="./assets/gmail_logo.svg" height="32px" alt="gmail" title="Mail me"/></a>
+<p>📫: tienvinh.duong4@gmail.com (Primary)</p>
+<p>📫: tienvinh.duong2@gmail.com (Secondary)</p>
+<a href="mailto:tienvinh.duong4@gmail.com"><img src="./assets/gmail_logo.svg" height="32px" width="32px" alt="gmail" title="Mail me"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/duong-tien-vinh"><img src="./assets/linkedin_logo.svg" height="32px" alt="linkedin" title="My LinkedIn profile"/></a>
+<a href="https://www.linkedin.com/in/duong-tien-vinh"><img src="./assets/linkedin_logo.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/></a>
 &nbsp;
-<a href="https://twitter.com/duckymomo20012"><img src="./assets/twitter_logo.svg" height="32px" alt="twitter" title="My Twitter account"/></a>
+<a href="https://twitter.com/duckymomo20012"><img src="./assets/twitter_logo.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/></a>
+&nbsp;
+<a href="https://t.me/duckymomo20012"><img src="./assets/telegram_logo.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/></a>
+&nbsp;
+<a href="https://join.skype.com/invite/xabx5AI61PJc"><img src="./assets/skype_logo.svg" height="32px" width="32px" alt="skype" title="My Skype account"/></a>
+&nbsp;
+<a href="https://discordapp.com/users/509778560224067605/"><img src="./assets/discord_logo.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/></a>
 
 ---
 
