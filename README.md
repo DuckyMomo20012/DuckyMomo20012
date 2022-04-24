@@ -1,12 +1,12 @@
 # Hi, I’m Duong Tien Vinh
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tienvinh.duong4@gmail.com)
-&nbsp;
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/DuckyMomo20012)
 &nbsp;
 [![gitbook](https://img.shields.io/badge/GitBook-7B36ED?style=flat-square&logo=gitbook&logoColor=white)](https://duckymomo20012.gitbook.io/crypto-learning/)
 &nbsp;
 [![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tienvinh_duong4)
+&nbsp;
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tienvinh.duong4@gmail.com)
 &nbsp;
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-tien-vinh)
 &nbsp;
@@ -50,40 +50,40 @@
 ## 🖥️ CODING ACTIVITY:
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    90 commits     █████░░░░░░░░░░░░░░░░░░░░   22.33% 
-🌆 Daytime    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
-🌃 Evening    220 commits    █████████████░░░░░░░░░░░░   54.59% 
+🌞 Morning    90 commits     █████░░░░░░░░░░░░░░░░░░░░   22.33%
+🌆 Daytime    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.11%
+🌃 Evening    220 commits    █████████████░░░░░░░░░░░░   54.59%
 🌙 Night      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
-JavaScript               25 hrs 32 mins      ██████████████████░░░░░░░   72.19% 
-SQL                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Python                   2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.79% 
-Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   5.75% 
+💬 Programming Languages:
+JavaScript               25 hrs 32 mins      ██████████████████░░░░░░░   72.19%
+SQL                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.59%
+Python                   2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.79%
+Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 Markdown                 1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
 
-🐱‍💻 Projects: 
-student-dashboard-nextjs 21 hrs 31 mins      ███████████████░░░░░░░░░░   60.83% 
-Unknown Project          5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
-login-form-nextjs        4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-nextjs-template          1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+🐱‍💻 Projects:
+student-dashboard-nextjs 21 hrs 31 mins      ███████████████░░░░░░░░░░   60.83%
+Unknown Project          5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.38%
+login-form-nextjs        4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96%
+nextjs-template          1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.61%
 nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
 
 ```
 
+Last Updated on 24/04/2022 14:59:37 UTC
 
- Last Updated on 24/04/2022 14:59:37 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -99,19 +99,6 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Framework</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
-                &nbsp;
-                <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/nextjs_logo.svg" height="32px" alt="nextjs" title="Next JS"/>
-                &nbsp;
-            </td>
-            <td>
-                <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/solidjs_logo.svg" height="32px" alt="solidjs" title="Solid JS"/>
-                &nbsp;
-            </td>
-        </tr>
         <tr>
             <td>Languages</td>
             <td>
@@ -332,13 +319,7 @@ nodejs-yolov5            1 hr 6 mins         ░░░░░░░░░░░�
 
 ## 📈 CONTRIBUTION GRAPH:
 
-<!-- Light Mode:
-- bg_color= #504945
-- color= #D4BE98
-- line= #7DA3A3
-- point= #EA6962
-
-Dark Mode:
+<!-- Dark Mode:
 - bg_color= #45464F
 - color= #E4E1E6
 - line= #B7C4FF
@@ -355,13 +336,7 @@ Dark Mode:
 
 ## 🏆 GITHUB STATS:
 
-<!-- Light Mode:
-- title_color= #D4BE98
-- text_color= #7DA3A3
-- icon_color= #EA6962
-- bg_color= #504945
-
-Dark Mode:
+<!-- Dark Mode:
 - title_color= #B7C4FF
 - text_color= #E4E1E6
 - icon_color= #E5BAD9
