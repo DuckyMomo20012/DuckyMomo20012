@@ -1,6 +1,20 @@
 # Hi, I’m Duong Tien Vinh
 
-> 🔮: Toggle to 🌙/☀️ mode to see image changes.
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tienvinh.duong4@gmail.com)
+&nbsp;
+[![gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/DuckyMomo20012)
+&nbsp;
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-tien-vinh)
+&nbsp;
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/duckymomo20012)
+&nbsp;
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/duckymomo20012)
+&nbsp;
+[![skype](https://img.shields.io/badge/Skype-00AFF0?style=flat-square&logo=skype&logoColor=white)](https://join.skype.com/invite/xabx5AI61PJc)
+&nbsp;
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/509778560224067605/)
+
+> 🔮: Toggle to 🌙/☀️ mode to see image change.
 
 ## 🦄 ABOUT ME:
 
@@ -262,12 +276,19 @@
 
 ## ☎️ CONTACT ME:
 
-<p>📫: tienvinh.duong4@gmail.com</p>
-<a href="mailto:tienvinh.duong4@gmail.com"><img src="./assets/gmail_logo.svg" height="32px" alt="gmail" title="Mail me"/></a>
+<p>📫: tienvinh.duong4@gmail.com (Primary)</p>
+<p>📫: tienvinh.duong2@gmail.com (Secondary)</p>
+<a href="mailto:tienvinh.duong4@gmail.com"><img src="./assets/gmail_logo.svg" height="32px" width="32px" alt="gmail" title="Mail me"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/duong-tien-vinh"><img src="./assets/linkedin_logo.svg" height="32px" alt="linkedin" title="My LinkedIn profile"/></a>
+<a href="https://www.linkedin.com/in/duong-tien-vinh"><img src="./assets/linkedin_logo.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/></a>
 &nbsp;
-<a href="https://twitter.com/duckymomo20012"><img src="./assets/twitter_logo.svg" height="32px" alt="twitter" title="My Twitter account"/></a>
+<a href="https://twitter.com/duckymomo20012"><img src="./assets/twitter_logo.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/></a>
+&nbsp;
+<a href="https://t.me/duckymomo20012"><img src="./assets/telegram_logo.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/></a>
+&nbsp;
+<a href="https://join.skype.com/invite/xabx5AI61PJc"><img src="./assets/skype_logo.svg" height="32px" width="32px" alt="skype" title="My Skype account"/></a>
+&nbsp;
+<a href="https://discordapp.com/users/509778560224067605/"><img src="./assets/discord_logo.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/></a>
 
 ---
 
