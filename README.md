@@ -190,7 +190,7 @@ Last Updated on 24/04/2022 04:41:07 UTC
             &nbsp;
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/canva_logo.png" height="32px" alt="canva" title="Canva"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/canva_logo.svg" height="32px" alt="canva" title="Canva"/>
             &nbsp;
         </td>
     </tr>
