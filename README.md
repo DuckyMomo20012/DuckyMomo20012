@@ -286,7 +286,7 @@
 
 <p align="center">
     <img
-    src="https://duckymomo20012-activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=45464F&color=E4E1E6&line=B7C4FF&point=E5BAD9&area=true&hide_border=true"
+    src="https://activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=45464F&color=E4E1E6&line=B7C4FF&point=E5BAD9&area=true&hide_border=true"
     alt="DuckyMomo20012's github activity graph. You may have to reload the page again to see it
     😅" title="My recent Github activities"/>
 </p>
