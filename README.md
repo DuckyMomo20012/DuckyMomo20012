@@ -33,10 +33,10 @@
                 Kinda self-motivated learner.
             </li>
             <li>
-                Eager for new web technologies, frameworks, libraries.
+                Interested in new web technologies, frameworks and libraries.
             </li>
             <li>
-                Hobby: sleep, read tech blogs, listen to music.
+                ❤️: 🧑‍💻, 🎵, 🏸. 
             </li>
         </td>
         <td>
