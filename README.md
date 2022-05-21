@@ -36,7 +36,7 @@
                 Interested in new web technologies, frameworks and libraries.
             </li>
             <li>
-                ❤️: 🧑‍💻, 🎵, 🏸. 
+                ❤️: 🧑‍💻, 🎵, 🏸.
             </li>
         </td>
         <td>
@@ -50,40 +50,6 @@
 ## 🖥️ CODING ACTIVITY:
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    104 commits    █████░░░░░░░░░░░░░░░░░░░░   19.89% 
-🌆 Daytime    122 commits    █████░░░░░░░░░░░░░░░░░░░░   23.33% 
-🌃 Evening    276 commits    █████████████░░░░░░░░░░░░   52.77% 
-🌙 Night      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.02%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-JavaScript               13 hrs 45 mins      ██████████████████░░░░░░░   75.47% 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
-Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
-SQL                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.3% 
-XML                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
-
-🐱‍💻 Projects: 
-student-dashboard-nextjs 15 hrs 32 mins      █████████████████████░░░░   85.25% 
-Unknown Project          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
-[BMCSDL] LAB02           39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-sql-to-mongodb           28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57% 
-DuckyMomo20012           27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
-
-```
-
-
- Last Updated on 20/05/2022 18:45:07 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -151,12 +117,14 @@ DuckyMomo20012           27 mins             ░░░░░░░░░░░�
                 &nbsp;
                 <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/github_logo.svg" height="32px" alt="github" title="Github"/>
                 &nbsp;
+                <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/gitlab_logo.svg" height="32px" alt="gitlab" title="Gitlab"/>
+                &nbsp;
             </td>
             <td>
             </td>
         </tr>
         <tr>
-            <td>Lint Tools, Formatters</td>
+            <td>QC/QA</td>
             <td>
                 <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_eslint.svg" height="32px" alt="eslint" title="ESLint"/>
                 &nbsp;
@@ -176,7 +144,7 @@ DuckyMomo20012           27 mins             ░░░░░░░░░░░�
             </td>
         </tr>
         <tr>
-            <td>Design Tools</td>
+            <td>Design</td>
             <td>
                 <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/figma_logo.svg" height="32px" alt="figma" title="Figma"/>
                 &nbsp;
@@ -187,7 +155,7 @@ DuckyMomo20012           27 mins             ░░░░░░░░░░░�
             </td>
         </tr>
         <tr>
-            <td>Team Collaboration Tools</td>
+            <td>Team Collaboration</td>
             <td>
                 <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/notion_logo.svg" height="32px" alt="notion" title="Notion"/>
                 &nbsp;
