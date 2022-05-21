@@ -36,7 +36,7 @@
                 Interested in new web technologies, frameworks and libraries.
             </li>
             <li>
-                ❤️: 🧑‍💻, 🎵, 🏸. 
+                ❤️: 🧑‍💻, 🎵, 🏸.
             </li>
         </td>
         <td>
@@ -110,12 +110,14 @@
                 &nbsp;
                 <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/github_logo.svg" height="32px" alt="github" title="Github"/>
                 &nbsp;
+                <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/gitlab_logo.svg" height="32px" alt="gitlab" title="Gitlab"/>
+                &nbsp;
             </td>
             <td>
             </td>
         </tr>
         <tr>
-            <td>Lint Tools, Formatters</td>
+            <td>QC/QA</td>
             <td>
                 <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/file_type_eslint.svg" height="32px" alt="eslint" title="ESLint"/>
                 &nbsp;
@@ -135,7 +137,7 @@
             </td>
         </tr>
         <tr>
-            <td>Design Tools</td>
+            <td>Design</td>
             <td>
                 <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/figma_logo.svg" height="32px" alt="figma" title="Figma"/>
                 &nbsp;
@@ -146,7 +148,7 @@
             </td>
         </tr>
         <tr>
-            <td>Team Collaboration Tools</td>
+            <td>Team Collaboration</td>
             <td>
                 <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/notion_logo.svg" height="32px" alt="notion" title="Notion"/>
                 &nbsp;
