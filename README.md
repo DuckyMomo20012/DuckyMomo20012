@@ -211,6 +211,8 @@
             <td align="center">
                 <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/recoil_logo.svg" height="32px" alt="recoil" title="Recoil"/>
                 <p align="center"><code><a href="https://recoiljs.org/">Recoil</a></code></p>
+                <p>🐻</p>
+                <p align="center"><code><a href="https://github.com/pmndrs/zustand">Zustand</a></code></p>
             </td>
         </tr>
         <tr>
@@ -260,7 +262,7 @@
 
 ---
 
-## ☎️ CONTACT ME:
+## ☎️ CONNECT WITH ME:
 
 <p>📫: tienvinh.duong4@gmail.com (Primary)</p>
 <p>📫: tienvinh.duong2@gmail.com (Secondary)</p>
