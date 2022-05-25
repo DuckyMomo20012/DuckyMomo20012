@@ -1,5 +1,8 @@
 # Hi, I’m Duong Tien Vinh
 
+
+![Colorful Geometric Abstract Shapes Gamer Video](https://user-images.githubusercontent.com/64480713/170178949-3b2f98e8-c299-4f94-b311-4f30318d9e6e.gif)
+
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/DuckyMomo20012)
 &nbsp;
 [![gitbook](https://img.shields.io/badge/GitBook-7B36ED?style=flat-square&logo=gitbook&logoColor=white)](https://duckymomo20012.gitbook.io/crypto-learning/)
