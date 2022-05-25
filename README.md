@@ -45,15 +45,13 @@
     </tr>
 </table>
 
----
-
 ## 🤖 TECHNOLOGIES:
 
 <table>
     <thead>
         <tr>
             <th></th>
-            <th>Learning</th>
+            <th>Learning/Using</th>
             <th>Interested</th>
         </tr>
     </thead>
@@ -165,16 +163,14 @@
     </tbody>
 </table>
 
----
-
 ## ⚙️ FRONT END STACK:
 
 <table>
     <thead>
         <tr>
             <th></th>
-            <th><div align="center">Learning</div></th>
-            <th><div align="center">Interested</div></th>
+            <th>Learning/Using</th>
+            <th>Interested</th>
         </tr>
     </thead>
     <tbody>
@@ -260,8 +256,6 @@
     </tbody>
 </table>
 
----
-
 ## ☎️ CONNECT WITH ME:
 
 <p>📫: tienvinh.duong4@gmail.com (Primary)</p>
@@ -277,25 +271,6 @@
 <a href="https://join.skype.com/invite/xabx5AI61PJc"><img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/skype_logo.svg" height="32px" width="32px" alt="skype" title="My Skype account"/></a>
 &nbsp;
 <a href="https://discordapp.com/users/509778560224067605/"><img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/discord_logo.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/></a>
-
----
-
-## 📈 CONTRIBUTION GRAPH:
-
-<!-- Dark Mode:
-- bg_color= #45464F
-- color= #E4E1E6
-- line= #B7C4FF
-- point= #E5BAD9 -->
-
-<p align="center">
-    <img
-    src="https://activity-graph.herokuapp.com/graph?username=DuckyMomo20012&bg_color=45464F&color=E4E1E6&line=B7C4FF&point=E5BAD9&area=true&hide_border=true"
-    alt="DuckyMomo20012's github activity graph. You may have to reload the page again to see it
-    😅" title="My recent Github activities"/>
-</p>
-
----
 
 ## 🏆 GITHUB STATS:
 
