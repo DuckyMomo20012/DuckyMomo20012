@@ -41,7 +41,7 @@
             </li>
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/avatar.jpg" width="300px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
+            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/avatar.jpg" width="300px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
         </td>
     </tr>
 </table>
@@ -233,7 +233,9 @@
         </tr>
     </tbody>
 </table>
+
 ## ⚙️ FRONT END STACK:
+
 <table>
     <thead>
         <tr>
@@ -366,7 +368,9 @@
         </tr>
     </tbody>
 </table>
+
 ## ☎️ CONNECT WITH ME:
+
 <p>📫: tienvinh.duong4@gmail.com (Primary)</p>
 <p>📫: tienvinh.duong2@gmail.com (Secondary)</p>
 <a href="mailto:tienvinh.duong4@gmail.com">
@@ -410,7 +414,9 @@
         <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/discord_logo.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/>
 </a>
 </picture>
+
 ## 🏆 GITHUB STATS:
+
 <!-- Dark Mode:
     - title_color= #B7C4FF
     - text_color= #E4E1E6
