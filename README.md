@@ -19,7 +19,7 @@ src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets
 height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
 
 - I am a third-year undergraduate student at <b>VNUHCM-University of Science</b>, majoring in <b>Computer Networks & Cybersecurity</b>.
-- I am currently learning <code>React ⚛️</code> for Front-End Development.
+- I am currently learning <b>React :atom_symbol:</b> for Front-End Development.
 - Kinda self-motivated learner.
 - Interested in new web technologies, frameworks and libraries.
 - :heart:: :man_technologist:, :headphones:, :badminton:.
@@ -398,10 +398,10 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
 ## :trophy: GITHUB STATS:
 
 <!-- Light Mode:
-    - title_color= #B3D258
-    - text_color= #E5E3DB
-    - icon_color= #A1D0C6
-    - bg_color= #46483C
+    - title_color= #FFB2BA
+    - text_color= #ECE0E0
+    - icon_color= #E8C08F
+    - bg_color= #524344
 
     Top Languages config:
     - layout=compact
