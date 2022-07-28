@@ -1,11 +1,5 @@
 # Hi, I’m Duong Tien Vinh
 
-[![gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/DuckyMomo20012)
-&nbsp;
-[![gitbook](https://img.shields.io/badge/GitBook-7B36ED?style=flat-square&logo=gitbook&logoColor=white)](https://duckymomo20012.gitbook.io/crypto-learning/)
-&nbsp;
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tienvinh_duong4)
-&nbsp;
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tienvinh.duong4@gmail.com)
 &nbsp;
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-tien-vinh)
@@ -18,34 +12,19 @@
 &nbsp;
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/509778560224067605/)
 
-## 🦄 ABOUT ME:
+## :unicorn: ABOUT ME:
 
-<table>
-    <tr>
-        <td>
-            <li>
-                I am a third-year undergraduate student at <b>VNUHCM-University of Science</b>, majoring in <b>Computer Networks & Cybersecurity</b>.
-            </li>
-            <li>
-                I am currently learning <code>React ⚛️</code> for Front-End Development.
-            </li>
-            <li>
-                Kinda self-motivated learner.
-            </li>
-            <li>
-                Interested in new web technologies, frameworks and libraries.
-            </li>
-            <li>
-                ❤️: 🧑‍💻, 🎵, 🏸.
-            </li>
-        </td>
-        <td>
-            <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/avatar.jpg" width="300px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
-        </td>
-    </tr>
-</table>
+<img align="right"
+src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/avatar.jpg"
+height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
 
-## 🤖 TECHNOLOGIES:
+- I am a third-year undergraduate student at <b>VNUHCM-University of Science</b>, majoring in <b>Computer Networks & Cybersecurity</b>.
+- I am currently learning <code>React ⚛️</code> for Front-End Development.
+- Kinda self-motivated learner.
+- Interested in new web technologies, frameworks and libraries.
+- :heart:: :man_technologist:, :headphones:, :badminton:.
+
+## :robot: TECHNOLOGIES:
 
 <table>
     <thead>
@@ -235,7 +214,7 @@
     </tbody>
 </table>
 
-## ⚙️ FRONT END STACK:
+## :gear: FRONT END STACK:
 
 <table>
     <thead>
@@ -300,7 +279,7 @@
                     <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/recoil_logo.svg" height="32px" alt="recoil" title="Recoil"/>
                 </picture>
                 <p align="center"><code><a href="https://recoiljs.org/">Recoil</a></code></p>
-                <p>🐻</p>
+                <p>:polar_bear:</p>
                 <p align="center"><code><a href="https://github.com/pmndrs/zustand">Zustand</a></code></p>
             </td>
         </tr>
@@ -370,10 +349,10 @@
     </tbody>
 </table>
 
-## ☎️ CONNECT WITH ME:
+## :handshake: CONNECT WITH ME:
 
-<p>📫: tienvinh.duong4@gmail.com (Primary)</p>
-<p>📫: tienvinh.duong2@gmail.com (Secondary)</p>
+<p>:envelope:: tienvinh.duong4@gmail.com (Primary)</p>
+<p>:envelope:: tienvinh.duong2@gmail.com (Secondary)</p>
 <a href="mailto:tienvinh.duong4@gmail.com">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/gmail_logo.svg">
@@ -416,7 +395,7 @@
 </a>
 </picture>
 
-## 🏆 GITHUB STATS:
+## :trophy: GITHUB STATS:
 
 <!-- Light Mode:
     - title_color= #B3D258
@@ -441,11 +420,11 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B3D258&text_color=E5E3DB&icon_color=A1D0C6&bg_color=46483C" alt="Duong Vinh's github stats" title="My statistics">
-        <img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github stats" title="My statistics"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github stats" title="My statistics"/>
     </picture>
     &nbsp;
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B3D258&text_color=E5E3DB&icon_color=A1D0C6&bg_color=46483C" alt="Duong Vinh's github most used languages" title="My most used languages">
-        <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github most used languages" title="My most used languages"/>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github most used languages" title="My most used languages"/>
     </picture>
 </p>
