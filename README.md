@@ -1,4 +1,4 @@
-# Hi, I’m Duong Tien Vinh
+# Hi, I’m Duong Tien Vinh :wave:
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tienvinh.duong4@gmail.com)
 &nbsp;
@@ -38,57 +38,30 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
         <tr>
             <td>Languages</td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_html.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_html.svg" height="32px" alt="html" title="HTML"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32px" alt="html" title="HTML"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_css.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_css.svg" height="32px" alt="css" title="CSS"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32px" alt="css" title="CSS"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_js_official.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_js_official.svg" height="32px" alt="javascript" title="Javascript"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32px" alt="javascript" title="Javascript"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_python.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_python.svg" height="32px" alt="python" title="Python"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32px" alt="python" title="Python"/>
                 &nbsp;
             </td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_typescript_official.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_typescript_official.svg" height="32px" alt="typescript" title="Typescript"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32px" alt="typescript" title="Typescript"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_graphql.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_graphql.svg" height="32px" alt="graphql" title="GraphQL"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="32px" alt="graphql" title="GraphQL"/>
                 &nbsp;
             </td>
         </tr>
         <tr>
             <td>Database</td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_mongo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_mongo.svg" height="32px" alt="mongodb" title="MongoDB"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32px" alt="mongodb" title="MongoDB"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/sql_server_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/sql_server_logo.svg" height="32px" alt="sql_server" title="SQL Server"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32px" alt="sql_server" title="SQL Server"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/prisma_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/prisma_logo.svg" height="32px" alt="prisma" title="Prisma"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181584158-7624dc4d-6be3-4deb-9410-f79977404ba2.svg" height="32px" alt="prisma" title="Prisma"/>
                 &nbsp;
             </td>
             <td>
@@ -97,42 +70,24 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
         <tr>
             <td>CI/CD</td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_docker.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_docker.svg" height="32px" alt="dockerfile" title="Docker"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32px" alt="dockerfile" title="Docker"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_jenkins.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_jenkins.svg" height="32px" alt="jenkinsfile" title="Jenkins"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32px" alt="jenkinsfile" title="Jenkins"/>
                 &nbsp;
             </td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/kubernetes_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/kubernetes_logo.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
                 &nbsp;
             </td>
         </tr>
         <tr>
             <td>Source Code Management (SCM)</td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_git.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_git.svg" height="32px" alt="git" title="Git"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32px" alt="git" title="Git"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/github_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/github_logo.svg" height="32px" alt="github" title="Github"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32px" alt="github" title="Github"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/gitlab_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/gitlab_logo.svg" height="32px" alt="gitlab" title="Gitlab"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="32px" alt="gitlab" title="Gitlab"/>
                 &nbsp;
             </td>
             <td>
@@ -141,15 +96,9 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
         <tr>
             <td>QC/QA</td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_eslint.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_eslint.svg" height="32px" alt="eslint" title="ESLint"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="32px" alt="eslint" title="ESLint"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_prettier.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_prettier.svg" height="32px" alt="prettier" title="Prettier"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181583557-ade2b505-e057-4d6c-93ce-7d30a7878303.svg" height="32px" alt="prettier" title="Prettier"/>
                 &nbsp;
             </td>
             <td>
@@ -158,10 +107,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
         <tr>
             <td>Text Editor</td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_vscode.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_vscode.svg" height="32px" alt="vscode" title="VSCode"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32px" alt="vscode" title="VSCode"/>
                 &nbsp;
             </td>
             <td>
@@ -170,44 +116,26 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
         <tr>
             <td>Design</td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/figma_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/figma_logo.svg" height="32px" alt="figma" title="Figma"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32px" alt="figma" title="Figma"/>
                 &nbsp;
             </td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/canva_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/canva_logo.svg" height="32px" alt="canva" title="Canva"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="32px" alt="canva" title="Canva"/>
                 &nbsp;
             </td>
         </tr>
         <tr>
             <td>Team Collaboration</td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/notion_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/notion_logo.svg" height="32px" alt="notion" title="Notion"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181582754-02447383-0a9b-4f40-8bb1-5b14b41f8c60.svg" height="32px" alt="notion" title="Notion"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/trello_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/trello_logo.svg" height="32px" alt="trello" title="Trello"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="32px" alt="trello" title="Trello"/>
                 &nbsp;
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/slack_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/slack_logo.svg" height="32px" alt="slack" title="Slack"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="32px" alt="slack" title="Slack"/>
                 &nbsp;
             </td>
             <td>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/asana_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/asana_logo.svg" height="32px" alt="asana" title="Asana"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181582568-3ce728e6-cdd4-4a6f-8005-8ab36ad8ddfc.svg" height="32px" alt="asana" title="Asana"/>
                 &nbsp;
             </td>
         </tr>
@@ -228,68 +156,44 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
         <tr>
             <td>Framework</td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/file_type_reactjs.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/file_type_reactjs.svg" height="32px" alt="reactjs" title="React JS"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32px" alt="reactjs" title="React JS"/>
                 <p align="center"><code><a href="https://reactjs.org/">React</a></code></p>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/nextjs_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/nextjs_logo.svg" height="32px" alt="nextjs" title="Next JS"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="32px" alt="nextjs" title="Next JS"/>
                 <p align="center"><code><a href="https://nextjs.org/">NextJS</a></code></p>
             </td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/solidjs_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/solidjs_logo.svg" height="32px" alt="solidjs" title="Solid JS"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181582386-4fd24f89-33dc-43d1-b170-034b80e91f22.svg" height="32px" alt="solidjs" title="Solid JS"/>
                 <p align="center"><code><a href="https://www.solidjs.com/">SolidJS</a></code></p>
             </td>
         </tr>
         <tr>
             <td>Routing</td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/react_router_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/react_router_logo.svg" height="32px" alt="react_router" title="React Router v6"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181582214-95da9c0b-f1f7-4e20-9b15-67846710c796.svg" height="32px" alt="react_router" title="React Router v6"/>
                 <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
             </td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/react_location_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/react_location_logo.svg" height="32px" alt="react_location" title="React Location"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181581870-141c2521-375e-4264-b6b9-747be7e91938.svg" height="32px" alt="react_location" title="React Location"/>
                 <p align="center"><code><a href="https://react-location.tanstack.com/">React Location</a></code></p>
             </td>
         </tr>
         <tr>
             <td>State Management</td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/redux_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/redux_logo.svg" height="32px" alt="redux" title="Redux Toolkit"/>
-                </picture>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32px" alt="redux" title="Redux Toolkit"/>
                 <p align="center"><code><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></code></p>
             </td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/recoil_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/recoil_logo.svg" height="32px" alt="recoil" title="Recoil"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181581549-5a98dcc0-1be4-4e8f-8b92-9ca971a08a3e.svg" height="32px" alt="recoil" title="Recoil"/>
                 <p align="center"><code><a href="https://recoiljs.org/">Recoil</a></code></p>
-                <p>:polar_bear:</p>
+                <p>:bear:</p>
                 <p align="center"><code><a href="https://github.com/pmndrs/zustand">Zustand</a></code></p>
             </td>
         </tr>
         <tr>
             <td>Data Fetching</td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/react_query_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/react_query_logo.svg" height="32px" alt="react_query" title="React Query"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181581338-a5a026e2-8ac8-41fe-a896-2c8df7258613.svg" height="32px" alt="react_query" title="React Query"/>
                 <p align="center"><code><a href="https://react-query.tanstack.com/">React Query</a></code></p>
             </td>
             <td align="center">
@@ -298,49 +202,31 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
         <tr>
             <td>Component Styling</td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/windi_css_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/windi_css_logo.svg" height="32px" alt="windicss" title="WindiCSS"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181581008-1381f61c-410b-4f6b-a077-601d59525b68.svg" height="32px" alt="windicss" title="WindiCSS"/>
                 <p align="center"><code><a href="https://windicss.org/">WindiCSS</a></code></p>
             </td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/vanilla_extract_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/vanilla_extract_logo.svg" height="32px" alt="vanilla_extract" title="Vanilla Extract"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181580837-4c3dd821-2078-4bca-bac2-e1691e5cf291.svg" height="32px" alt="vanilla_extract" title="Vanilla Extract"/>
                 <p align="center"><code><a href="https://vanilla-extract.style/">Vanilla Extract</a></code></p>
             </td>
         </tr>
         <tr>
             <td>UI Component Library</td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/mantine_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/mantine_logo.svg" height="32px" alt="mantine" title="Mantine"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181580491-6e4d5b5c-91f4-4b7b-83c9-96712376b352.svg" height="32px" alt="mantine" title="Mantine"/>
                 <p align="center"><code><a href="https://mantine.dev/">Mantine</a></code></p>
             </td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/ant_design_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/ant_design_logo.svg" height="32px" alt="ant_design" title="Ant Design"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181580299-a2d71580-29ff-44aa-bf25-4c736e7ecef5.svg" height="32px" alt="ant_design" title="Ant Design"/>
                 <p align="center"><code><a href="https://ant.design/">Ant Design</a></code></p>
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/chakra_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/chakra_logo.svg" height="32px" alt="chakra" title="Chakra UI"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181579965-3ba9c892-9b5e-4297-99e1-f637a1f38d85.svg" height="32px" alt="chakra" title="Chakra UI"/>
                 <p align="center"><code><a href="https://chakra-ui.com/">Chakra UI</a></code></p>
             </td>
         </tr>
         <tr>
             <td>Build Tool</td>
             <td align="center">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/vite_logo.svg">
-                    <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/vite_logo.svg" height="32px" alt="vite" title="Vite"/>
-                </picture>
+                <img src="https://user-images.githubusercontent.com/64480713/181579678-92b1595d-f894-404b-a101-357933aa6984.svg" height="32px" alt="vite" title="Vite"/>
                 <p align="center"><code><a href="https://vitejs.dev/">Vite</a></code></p>
             </td>
             <td align="center">
@@ -354,46 +240,28 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
 <p>:envelope:: tienvinh.duong4@gmail.com (Primary)</p>
 <p>:envelope:: tienvinh.duong2@gmail.com (Secondary)</p>
 <a href="mailto:tienvinh.duong4@gmail.com">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/gmail_logo.svg">
-        <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/gmail_logo.svg" height="32px" width="32px" alt="gmail" title="Mail me"/>
+    <img src="https://user-images.githubusercontent.com/64480713/181578828-04f1d588-34c9-4270-b5ce-b78513aba247.svg" height="32px" width="32px" alt="gmail" title="Mail me"/>
 </a>
-</picture>
 &nbsp;
 <a href="https://www.linkedin.com/in/duong-tien-vinh">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/linkedin_logo.svg">
-        <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/linkedin_logo.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
 </a>
-</picture>
 &nbsp;
 <a href="https://twitter.com/duckymomo20012">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/twitter_logo.svg">
-        <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/twitter_logo.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/>
+    <img src="https://user-images.githubusercontent.com/64480713/181669651-ecc731ff-a047-4ea0-9dab-9a6fd8478a4f.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/>
 </a>
-</picture>
 &nbsp;
 <a href="https://t.me/duckymomo20012">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/telegram_logo.svg">
-        <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/telegram_logo.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/>
+    <img src="https://user-images.githubusercontent.com/64480713/181579009-2851ced3-3ef9-4008-84c7-7f222c37c25b.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/>
 </a>
-</picture>
 &nbsp;
 <a href="https://join.skype.com/invite/xabx5AI61PJc">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/skype_logo.svg">
-        <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/skype_logo.svg" height="32px" width="32px" alt="skype" title="My Skype account"/>
+    <img src="https://user-images.githubusercontent.com/64480713/181579136-7ddffd39-476d-4212-af24-737ae02a7071.svg" height="32px" width="32px" alt="skype" title="My Skype account"/>
 </a>
-</picture>
 &nbsp;
 <a href="https://discordapp.com/users/509778560224067605/">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/dark/discord_logo.svg">
-        <img src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/light/discord_logo.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/>
+    <img src="https://user-images.githubusercontent.com/64480713/181579318-2ce0865b-990a-43fd-a49a-2fb80df07164.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/>
 </a>
-</picture>
 
 ## :trophy: GITHUB STATS:
 
@@ -419,12 +287,12 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
 
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B3D258&text_color=E5E3DB&icon_color=A1D0C6&bg_color=46483C" alt="Duong Vinh's github stats" title="My statistics">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="Duong Vinh's github stats" title="My statistics">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github stats" title="My statistics"/>
     </picture>
     &nbsp;
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B3D258&text_color=E5E3DB&icon_color=A1D0C6&bg_color=46483C" alt="Duong Vinh's github most used languages" title="My most used languages">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="Duong Vinh's github most used languages" title="My most used languages">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github most used languages" title="My most used languages"/>
     </picture>
 </p>
