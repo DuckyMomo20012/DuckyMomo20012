@@ -81,7 +81,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
-            <td>Source Code Management (SCM)</td>
+            <td>SCM</td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32px" alt="git" title="Git"/>
                 &nbsp;
@@ -125,7 +125,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
-            <td>Team Collaboration</td>
+            <td>Collaboration</td>
             <td>
                 <img src="https://user-images.githubusercontent.com/64480713/181582754-02447383-0a9b-4f40-8bb1-5b14b41f8c60.svg" height="32px" alt="notion" title="Notion"/>
                 &nbsp;
