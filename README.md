@@ -288,11 +288,11 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="Duong Vinh's github stats" title="My statistics">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github stats" title="My statistics"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github stats" title="My statistics"/>
     </picture>
     &nbsp;
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="Duong Vinh's github most used languages" title="My most used languages">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github most used languages" title="My most used languages"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github most used languages" title="My most used languages"/>
     </picture>
 </p>
