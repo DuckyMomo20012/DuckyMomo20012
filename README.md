@@ -36,7 +36,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
     </thead>
     <tbody>
         <tr>
-            <td>Languages</td>
+            <td>:capital_abcd: <code>Languages</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32px" alt="html" title="HTML"/>
                 &nbsp;
@@ -55,7 +55,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
-            <td>Database</td>
+            <td>:package: <code>Database</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32px" alt="mongodb" title="MongoDB"/>
                 &nbsp;
@@ -68,7 +68,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
-            <td>CI/CD</td>
+            <td>:arrows_counterclockwise: <code>CI/CD</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32px" alt="dockerfile" title="Docker"/>
                 &nbsp;
@@ -81,7 +81,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
-            <td>SCM</td>
+            <td>:open_file_folder: <code>SCM</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32px" alt="git" title="Git"/>
                 &nbsp;
@@ -94,7 +94,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
-            <td>QC/QA</td>
+            <td>:mag: <code>QC/QA</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="32px" alt="eslint" title="ESLint"/>
                 &nbsp;
@@ -105,7 +105,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
-            <td>Text Editor</td>
+            <td>:computer: <code>Text Editor</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32px" alt="vscode" title="VSCode"/>
                 &nbsp;
@@ -114,7 +114,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
-            <td>Design</td>
+            <td>:art: <code>Design</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32px" alt="figma" title="Figma"/>
                 &nbsp;
@@ -125,7 +125,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             </td>
         </tr>
         <tr>
-            <td>Collaboration</td>
+            <td>:handshake: <code>Collaboration</code></td>
             <td>
                 <img src="https://user-images.githubusercontent.com/64480713/181582754-02447383-0a9b-4f40-8bb1-5b14b41f8c60.svg" height="32px" alt="notion" title="Notion"/>
                 &nbsp;
@@ -142,103 +142,9 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
     </tbody>
 </table>
 
-## :gear: FRONT END STACK:
-
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Learning/Using</th>
-            <th>Interested</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Framework</td>
-            <td align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32px" alt="reactjs" title="React JS"/>
-                <p align="center"><code><a href="https://reactjs.org/">React</a></code></p>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="32px" alt="nextjs" title="Next JS"/>
-                <p align="center"><code><a href="https://nextjs.org/">NextJS</a></code></p>
-            </td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181582386-4fd24f89-33dc-43d1-b170-034b80e91f22.svg" height="32px" alt="solidjs" title="Solid JS"/>
-                <p align="center"><code><a href="https://www.solidjs.com/">SolidJS</a></code></p>
-            </td>
-        </tr>
-        <tr>
-            <td>Routing</td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181582214-95da9c0b-f1f7-4e20-9b15-67846710c796.svg" height="32px" alt="react_router" title="React Router v6"/>
-                <p align="center"><code><a href="https://reactrouter.com/docs/en/v6">React Router v6</a></code></p>
-            </td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181581870-141c2521-375e-4264-b6b9-747be7e91938.svg" height="32px" alt="react_location" title="React Location"/>
-                <p align="center"><code><a href="https://react-location.tanstack.com/">React Location</a></code></p>
-            </td>
-        </tr>
-        <tr>
-            <td>State Management</td>
-            <td align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32px" alt="redux" title="Redux Toolkit"/>
-                <p align="center"><code><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></code></p>
-            </td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181581549-5a98dcc0-1be4-4e8f-8b92-9ca971a08a3e.svg" height="32px" alt="recoil" title="Recoil"/>
-                <p align="center"><code><a href="https://recoiljs.org/">Recoil</a></code></p>
-                <p>:bear:</p>
-                <p align="center"><code><a href="https://github.com/pmndrs/zustand">Zustand</a></code></p>
-            </td>
-        </tr>
-        <tr>
-            <td>Data Fetching</td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181581338-a5a026e2-8ac8-41fe-a896-2c8df7258613.svg" height="32px" alt="react_query" title="React Query"/>
-                <p align="center"><code><a href="https://react-query.tanstack.com/">React Query</a></code></p>
-            </td>
-            <td align="center">
-            </td>
-        </tr>
-        <tr>
-            <td>Component Styling</td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181581008-1381f61c-410b-4f6b-a077-601d59525b68.svg" height="32px" alt="windicss" title="WindiCSS"/>
-                <p align="center"><code><a href="https://windicss.org/">WindiCSS</a></code></p>
-            </td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181580837-4c3dd821-2078-4bca-bac2-e1691e5cf291.svg" height="32px" alt="vanilla_extract" title="Vanilla Extract"/>
-                <p align="center"><code><a href="https://vanilla-extract.style/">Vanilla Extract</a></code></p>
-            </td>
-        </tr>
-        <tr>
-            <td>UI Component Library</td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181580491-6e4d5b5c-91f4-4b7b-83c9-96712376b352.svg" height="32px" alt="mantine" title="Mantine"/>
-                <p align="center"><code><a href="https://mantine.dev/">Mantine</a></code></p>
-            </td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181580299-a2d71580-29ff-44aa-bf25-4c736e7ecef5.svg" height="32px" alt="ant_design" title="Ant Design"/>
-                <p align="center"><code><a href="https://ant.design/">Ant Design</a></code></p>
-                <img src="https://user-images.githubusercontent.com/64480713/181579965-3ba9c892-9b5e-4297-99e1-f637a1f38d85.svg" height="32px" alt="chakra" title="Chakra UI"/>
-                <p align="center"><code><a href="https://chakra-ui.com/">Chakra UI</a></code></p>
-            </td>
-        </tr>
-        <tr>
-            <td>Build Tool</td>
-            <td align="center">
-                <img src="https://user-images.githubusercontent.com/64480713/181579678-92b1595d-f894-404b-a101-357933aa6984.svg" height="32px" alt="vite" title="Vite"/>
-                <p align="center"><code><a href="https://vitejs.dev/">Vite</a></code></p>
-            </td>
-            <td align="center">
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ## :handshake: CONNECT WITH ME:
 
-<p>:envelope:: tienvinh.duong4@gmail.com (Primary)</p>
-<p>:envelope:: tienvinh.duong2@gmail.com (Secondary)</p>
+<p>:envelope:: tienvinh.duong4@gmail.com</p>
 <a href="mailto:tienvinh.duong4@gmail.com">
     <img src="https://user-images.githubusercontent.com/64480713/181578828-04f1d588-34c9-4270-b5ce-b78513aba247.svg" height="32px" width="32px" alt="gmail" title="Mail me"/>
 </a>
