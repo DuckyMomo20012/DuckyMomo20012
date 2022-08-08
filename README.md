@@ -1,30 +1,43 @@
-# Hi, I’m Duong Tien Vinh :wave:
-
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tienvinh.duong4@gmail.com)
-&nbsp;
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-tien-vinh)
-&nbsp;
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/duckymomo20012)
-&nbsp;
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/duckymomo20012)
-&nbsp;
-[![skype](https://img.shields.io/badge/Skype-00AFF0?style=flat-square&logo=skype&logoColor=white)](https://join.skype.com/invite/xabx5AI61PJc)
-&nbsp;
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/509778560224067605/)
-
-## :unicorn: ABOUT ME:
-
 <img align="right"
 src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/avatar.jpg"
 height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
+
+# Hi, I’m Duong Tien Vinh
+
+## :unicorn: About Me:
 
 - I am a third-year undergraduate student at <b>VNUHCM-University of Science</b>, majoring in <b>Computer Networks & Cybersecurity</b>.
 - I am currently learning <b>React :atom_symbol:</b> for Front-End Development.
 - Kinda self-motivated learner.
 - Interested in new web technologies, frameworks and libraries.
-- :heart:: :man_technologist:, :headphones:, :badminton:.
+- :heart:: :tv:, :man_technologist:, :headphones:, :badminton:.
+- :envelope:: tienvinh.duong4@gmail.com
 
-## :robot: TECHNOLOGIES:
+<a href="mailto:tienvinh.duong4@gmail.com">
+    <img src="https://user-images.githubusercontent.com/64480713/181578828-04f1d588-34c9-4270-b5ce-b78513aba247.svg" height="32px" width="32px" alt="gmail" title="Mail me"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/duong-tien-vinh">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/duckymomo20012">
+    <img src="https://user-images.githubusercontent.com/64480713/181669651-ecc731ff-a047-4ea0-9dab-9a6fd8478a4f.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/>
+</a>
+&nbsp;
+<a href="https://t.me/duckymomo20012">
+    <img src="https://user-images.githubusercontent.com/64480713/181579009-2851ced3-3ef9-4008-84c7-7f222c37c25b.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/>
+</a>
+&nbsp;
+<a href="https://join.skype.com/invite/xabx5AI61PJc">
+    <img src="https://user-images.githubusercontent.com/64480713/181579136-7ddffd39-476d-4212-af24-737ae02a7071.svg" height="32px" width="32px" alt="skype" title="My Skype account"/>
+</a>
+&nbsp;
+<a href="https://discordapp.com/users/509778560224067605/">
+    <img src="https://user-images.githubusercontent.com/64480713/181579318-2ce0865b-990a-43fd-a49a-2fb80df07164.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/>
+</a>
+
+## :robot: Technologies:
 
 <table>
     <thead>
@@ -46,6 +59,8 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32px" alt="python" title="Python"/>
                 &nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32px" alt="go" title="Go"/>
+                &nbsp;
             </td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32px" alt="typescript" title="Typescript"/>
@@ -63,16 +78,20 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
                 &nbsp;
                 <img src="https://user-images.githubusercontent.com/64480713/181584158-7624dc4d-6be3-4deb-9410-f79977404ba2.svg" height="32px" alt="prisma" title="Prisma"/>
                 &nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="32px" alt="postgres" title="Postgres"/>
+                &nbsp;
             </td>
             <td>
             </td>
         </tr>
         <tr>
-            <td>:arrows_counterclockwise: <code>CI/CD</code></td>
+            <td>:arrows_clockwise: <code>CI/CD</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32px" alt="dockerfile" title="Docker"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32px" alt="jenkinsfile" title="Jenkins"/>
+                &nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" height="32px" alt="circleci" title="CircleCI"/>
                 &nbsp;
             </td>
             <td>
@@ -133,6 +152,8 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="32px" alt="slack" title="Slack"/>
                 &nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="32px" alt="jira" title="Jira"/>
+                &nbsp;
             </td>
             <td>
                 <img src="https://user-images.githubusercontent.com/64480713/181582568-3ce728e6-cdd4-4a6f-8005-8ab36ad8ddfc.svg" height="32px" alt="asana" title="Asana"/>
@@ -142,34 +163,7 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
     </tbody>
 </table>
 
-## :handshake: CONNECT WITH ME:
-
-<p>:envelope:: tienvinh.duong4@gmail.com</p>
-<a href="mailto:tienvinh.duong4@gmail.com">
-    <img src="https://user-images.githubusercontent.com/64480713/181578828-04f1d588-34c9-4270-b5ce-b78513aba247.svg" height="32px" width="32px" alt="gmail" title="Mail me"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/duong-tien-vinh">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/duckymomo20012">
-    <img src="https://user-images.githubusercontent.com/64480713/181669651-ecc731ff-a047-4ea0-9dab-9a6fd8478a4f.svg" height="32px" width="32px" alt="twitter" title="My Twitter account"/>
-</a>
-&nbsp;
-<a href="https://t.me/duckymomo20012">
-    <img src="https://user-images.githubusercontent.com/64480713/181579009-2851ced3-3ef9-4008-84c7-7f222c37c25b.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/>
-</a>
-&nbsp;
-<a href="https://join.skype.com/invite/xabx5AI61PJc">
-    <img src="https://user-images.githubusercontent.com/64480713/181579136-7ddffd39-476d-4212-af24-737ae02a7071.svg" height="32px" width="32px" alt="skype" title="My Skype account"/>
-</a>
-&nbsp;
-<a href="https://discordapp.com/users/509778560224067605/">
-    <img src="https://user-images.githubusercontent.com/64480713/181579318-2ce0865b-990a-43fd-a49a-2fb80df07164.svg" height="32px" width="32px" alt="discord" title="My Dicord account"/>
-</a>
-
-## :trophy: GITHUB STATS:
+## :chart: Github Stats:
 
 <!-- Light Mode:
     - title_color= #FFB2BA
