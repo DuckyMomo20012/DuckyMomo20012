@@ -13,10 +13,6 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
 - :heart:: :tv:, :man_technologist:, :headphones:, :badminton:.
 - :envelope:: tienvinh.duong4@gmail.com
 
-<a href="mailto:tienvinh.duong4@gmail.com">
-    <img src="https://user-images.githubusercontent.com/64480713/181578828-04f1d588-34c9-4270-b5ce-b78513aba247.svg" height="32px" width="32px" alt="gmail" title="Mail me"/>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/duong-tien-vinh">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
 </a>
@@ -43,7 +39,8 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
     <thead>
         <tr>
             <th></th>
-            <th>Learning/Using</th>
+            <th>Using</th>
+            <th>Learning</th>
             <th>Interested</th>
         </tr>
     </thead>
@@ -58,15 +55,14 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32px" alt="javascript" title="Javascript"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32px" alt="python" title="Python"/>
-                &nbsp;
+            </td>
+            <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32px" alt="go" title="Go"/>
-                &nbsp;
             </td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32px" alt="typescript" title="Typescript"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="32px" alt="graphql" title="GraphQL"/>
-                &nbsp;
             </td>
         </tr>
         <tr>
@@ -77,9 +73,9 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32px" alt="sql_server" title="SQL Server"/>
                 &nbsp;
                 <img src="https://user-images.githubusercontent.com/64480713/181584158-7624dc4d-6be3-4deb-9410-f79977404ba2.svg" height="32px" alt="prisma" title="Prisma"/>
-                &nbsp;
+            </td>
+            <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="32px" alt="postgres" title="Postgres"/>
-                &nbsp;
             </td>
             <td>
             </td>
@@ -92,11 +88,11 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32px" alt="jenkinsfile" title="Jenkins"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" height="32px" alt="circleci" title="CircleCI"/>
-                &nbsp;
+            </td>
+            <td>
             </td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
-                &nbsp;
             </td>
         </tr>
         <tr>
@@ -107,7 +103,8 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32px" alt="github" title="Github"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="32px" alt="gitlab" title="Gitlab"/>
-                &nbsp;
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -118,7 +115,8 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="32px" alt="eslint" title="ESLint"/>
                 &nbsp;
                 <img src="https://user-images.githubusercontent.com/64480713/181583557-ade2b505-e057-4d6c-93ce-7d30a7878303.svg" height="32px" alt="prettier" title="Prettier"/>
-                &nbsp;
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -127,7 +125,8 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             <td>:computer: <code>Text Editor</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32px" alt="vscode" title="VSCode"/>
-                &nbsp;
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -136,11 +135,11 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
             <td>:art: <code>Design</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32px" alt="figma" title="Figma"/>
-                &nbsp;
+            </td>
+            <td>
             </td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="32px" alt="canva" title="Canva"/>
-                &nbsp;
             </td>
         </tr>
         <tr>
@@ -151,13 +150,12 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="32px" alt="trello" title="Trello"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="32px" alt="slack" title="Slack"/>
-                &nbsp;
+            </td>
+            <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="32px" alt="jira" title="Jira"/>
-                &nbsp;
             </td>
             <td>
                 <img src="https://user-images.githubusercontent.com/64480713/181582568-3ce728e6-cdd4-4a6f-8005-8ab36ad8ddfc.svg" height="32px" alt="asana" title="Asana"/>
-                &nbsp;
             </td>
         </tr>
     </tbody>
