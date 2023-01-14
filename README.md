@@ -1,12 +1,14 @@
 <img align="right"
 src="https://raw.githubusercontent.com/DuckyMomo20012/DuckyMomo20012/main/assets/avatar.jpg"
-height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you! 🤖"/>
+height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet
+you! 🤖"/>
 
 # Hi, I’m Duong Tien Vinh
 
 ## :unicorn: About Me:
 
-- I am a third-year undergraduate student at <b>VNUHCM-University of Science</b>, majoring in <b>Computer Networks & Cybersecurity</b>.
+- I am a third-year undergraduate student at <b>VNUHCM-University of
+  Science</b>, majoring in <b>Computer Networks & Cybersecurity</b>.
 - I am currently learning <b>React :atom_symbol:</b> for Front-End Development.
 - Kinda self-motivated learner.
 - Interested in new web technologies, frameworks and libraries.
@@ -161,6 +163,14 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
     </tbody>
 </table>
 
+## :crab: Activities:
+
+<p align="center">
+    <img
+    src="https://wakatime.com/share/@duckymomo20012/e8e15f75-bcf6-4111-85a6-be6d337a7891.svg"
+    height="80%" width="80%" alt="coding-activities" title="My Coding Activities"/>
+</p>
+
 ## :chart: Github Stats:
 
 <!-- Light Mode:
@@ -193,4 +203,70 @@ height="150px" width="150px" alt="Duong Vinh avatar" title="Hi, nice to meet you
         <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="Duong Vinh's github most used languages" title="My most used languages">
         <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github most used languages" title="My most used languages"/>
     </picture>
+</p>
+
+## :whale: My Templates:
+
+These templates will have you quickly bootstrapping your next project. You can
+find some tricks to integrate or enhance your own projects. Feel free to use
+them as you wish 🥰.
+
+These templates are not quite actively maintained, but I will try to keep them
+up to date with new features as much as possible 🌱.
+
+<p align="center">
+    <a href="https://github.com/DuckyMomo20012/react-template">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=react-template&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="react-template" title="React Template">
+          <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=react-template&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="react-template" title="React Template"/>
+      </picture>
+    </a>
+    &nbsp;
+    <a href="https://github.com/DuckyMomo20012/nextjs-template">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=nextjs-template&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="nextjs-template" title="NextJS Template">
+            <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=nextjs-template&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="nextjs-template" title="NextJS Template"/>
+        </picture>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/DuckyMomo20012/docusaurus-template">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=docusaurus-template&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="docusaurus-template" title="Docusaurus Template">
+            <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=docusaurus-template&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="docusaurus-template" title="Docusaurus Template"/>
+        </picture>
+    </a>
+    &nbsp;
+    <a href="https://github.com/DuckyMomo20012/express-template">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=express-template&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="express-template" title="ExpressJS Template">
+            <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=express-template&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="express-template" title="ExpressJS Template"/>
+        </picture>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/DuckyMomo20012/node-red-template">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=node-red-template&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="node-red-template" title="Node-RED Template">
+            <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=node-red-template&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="node-red-template" title="Node-RED Template"/>
+        </picture>
+    </a>
+    &nbsp;
+    <a href="https://github.com/DuckyMomo20012/python-template">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=python-template&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="python-template" title="Python Template">
+            <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=python-template&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="python-template" title="Python Template"/>
+        </picture>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/DuckyMomo20012/cpp-template">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=cpp-template&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="cpp-template" title="CPP Template">
+            <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api/pin/?username=DuckyMomo20012&repo=cpp-template&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="cpp-template" title="CPP Template"/>
+        </picture>
+    </a>
 </p>
