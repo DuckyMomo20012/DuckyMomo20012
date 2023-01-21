@@ -57,13 +57,13 @@ you! 🤖"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32px" alt="javascript" title="Javascript"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32px" alt="python" title="Python"/>
+                &nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32px" alt="typescript" title="Typescript"/>
             </td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32px" alt="go" title="Go"/>
             </td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32px" alt="typescript" title="Typescript"/>
-                &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="32px" alt="graphql" title="GraphQL"/>
             </td>
         </tr>
