@@ -152,9 +152,9 @@ you! 🤖"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="32px" alt="trello" title="Trello"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="32px" alt="slack" title="Slack"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="32px" alt="jira" title="Jira"/>
             </td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="32px" alt="jira" title="Jira"/>
             </td>
             <td>
                 <img src="https://user-images.githubusercontent.com/64480713/181582568-3ce728e6-cdd4-4a6f-8005-8ab36ad8ddfc.svg" height="32px" alt="asana" title="Asana"/>
