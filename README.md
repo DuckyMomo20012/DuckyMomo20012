@@ -94,7 +94,7 @@ you! 🤖"/>
             <td>
             </td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
+                <img src="https://user-images.githubusercontent.com/64480713/213927246-c4deafeb-67cb-4fca-8829-576dfbbfdd3a.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
             </td>
         </tr>
         <tr>
@@ -149,15 +149,18 @@ you! 🤖"/>
             <td>
                 <img src="https://user-images.githubusercontent.com/64480713/181582754-02447383-0a9b-4f40-8bb1-5b14b41f8c60.svg" height="32px" alt="notion" title="Notion"/>
                 &nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="32px" alt="trello" title="Trello"/>
+                <!-- Source: https://atlassian.design/resources/logo-library -->
+                <img src="https://user-images.githubusercontent.com/64480713/213927197-8c896829-476c-4ad7-b19c-1edff6cb2ad4.svg" height="32px" alt="trello" title="Trello"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="32px" alt="slack" title="Slack"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="32px" alt="jira" title="Jira"/>
+                <!-- Source: https://atlassian.design/resources/logo-library -->
+                <img src="https://user-images.githubusercontent.com/64480713/213927110-4ce88d77-e5ea-4806-961d-0ef0166d5978.svg" height="32px" alt="jira" title="Jira"/>
             </td>
             <td>
             </td>
             <td>
-                <img src="https://user-images.githubusercontent.com/64480713/181582568-3ce728e6-cdd4-4a6f-8005-8ab36ad8ddfc.svg" height="32px" alt="asana" title="Asana"/>
+                <!-- Source: https://asana.com/brand -->
+                <img src="https://user-images.githubusercontent.com/64480713/213927473-5c444e3a-ecbe-4a54-aee6-fefc593760e8.svg" height="32px" alt="asana" title="Asana"/>
             </td>
         </tr>
     </tbody>
