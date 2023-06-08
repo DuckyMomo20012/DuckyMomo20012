@@ -8,8 +8,8 @@ you! 🤖"/>
 ## :unicorn: About Me:
 
 - From `🇻🇳`.
-- I am a third-year undergraduate student at <b>VNUHCM-University of
-  Science</b>, majoring in <b>Computer Networks & Cybersecurity</b>.
+- I am a senior undergraduate student at <b>VNUHCM-University of Science</b>,
+  majoring in <b>Computer Networks & Cybersecurity</b>.
 - I am currently learning <b>React :atom_symbol:</b> for Front-End Development.
 - Kinda self-motivated learner.
 - Interested in new web technologies, frameworks and libraries.
@@ -57,8 +57,8 @@ you! 🤖"/>
         <tr>
             <td>:package: <code>Database</code></td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32px" alt="mongodb" title="MongoDB"/>
-                &nbsp;
+                <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32px" alt="mongodb" title="MongoDB"/>
+                &nbsp; -->
             </td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="32px" alt="postgres" title="Postgres"/>
@@ -70,8 +70,8 @@ you! 🤖"/>
             <td>:arrows_clockwise: <code>CI/CD</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32px" alt="dockerfile" title="Docker"/>
-                &nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" height="32px" alt="circleci" title="CircleCI"/>
+                <!-- &nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" height="32px" alt="circleci" title="CircleCI"/> -->
             </td>
             <td>
                 <img src="https://user-images.githubusercontent.com/64480713/213927246-c4deafeb-67cb-4fca-8829-576dfbbfdd3a.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
@@ -116,8 +116,8 @@ you! 🤖"/>
                 <img src="https://user-images.githubusercontent.com/64480713/181582754-02447383-0a9b-4f40-8bb1-5b14b41f8c60.svg" height="32px" alt="notion" title="Notion"/>
                 &nbsp;
                 <!-- Source: https://atlassian.design/resources/logo-library -->
-                <img src="https://user-images.githubusercontent.com/64480713/213927197-8c896829-476c-4ad7-b19c-1edff6cb2ad4.svg" height="32px" alt="trello" title="Trello"/>
-                &nbsp;
+                <!-- <img src="https://user-images.githubusercontent.com/64480713/213927197-8c896829-476c-4ad7-b19c-1edff6cb2ad4.svg" height="32px" alt="trello" title="Trello"/>
+                &nbsp; -->
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="32px" alt="slack" title="Slack"/>
                 <!-- Source: https://atlassian.design/resources/logo-library -->
                 <img src="https://user-images.githubusercontent.com/64480713/213927110-4ce88d77-e5ea-4806-961d-0ef0166d5978.svg" height="32px" alt="jira" title="Jira"/>
