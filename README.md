@@ -10,7 +10,7 @@ you! 🤖"/>
 - From `🇻🇳`.
 - I am a senior undergraduate student at <b>VNUHCM-University of Science</b>,
   majoring in <b>Computer Networks & Cybersecurity</b>.
-- I am currently learning <b>React :atom_symbol:</b> for Front-End Development.
+- I am currently learning <b>Kubernetes</b> for DevOps/GitOps Developer.
 - Kinda self-motivated learner.
 - Interested in new web technologies, frameworks and libraries.
 - :heart:: `👨‍💻`, `🎧️`.
@@ -72,9 +72,10 @@ you! 🤖"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32px" alt="dockerfile" title="Docker"/>
                 <!-- &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" height="32px" alt="circleci" title="CircleCI"/> -->
+                &nbsp;
+                <img src="https://user-images.githubusercontent.com/64480713/213927246-c4deafeb-67cb-4fca-8829-576dfbbfdd3a.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
             </td>
             <td>
-                <img src="https://user-images.githubusercontent.com/64480713/213927246-c4deafeb-67cb-4fca-8829-576dfbbfdd3a.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
             </td>
             <td>
             </td>
