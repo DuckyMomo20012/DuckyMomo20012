@@ -5,36 +5,35 @@ you! 🤖"/>
 
 # Hi, I’m Duong Tien Vinh
 
-## :unicorn: About Me:
+## ☝️😲 About me:
 
 - From `🇻🇳`.
 - I am a senior undergraduate student at <b>VNUHCM-University of Science</b>,
   majoring in <b>Computer Networks & Cybersecurity</b>.
 - I am currently learning <b>Kubernetes</b> for DevOps/GitOps Developer.
 - Kinda self-motivated learner.
-- Interested in new web technologies, frameworks and libraries.
-- :heart:: `👨‍💻`, `🎧️`.
-- :envelope:: tienvinh.duong4@gmail.com
+- :heart:: `👨‍💻`, `🎧️`, `🧶`.
 
-<a href="https://www.linkedin.com/in/duong-tien-vinh">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
-</a>
-&nbsp;
-<a href="https://t.me/duckymomo20012">
-    <img src="https://user-images.githubusercontent.com/64480713/181579009-2851ced3-3ef9-4008-84c7-7f222c37c25b.svg" height="32px" width="32px" alt="telegram" title="My Telegram account"/>
-</a>
+## :thought_balloon: Connect with me:
+
+- Email (primary): tienvinh.duong4@gmail.com.
+- LinkedIn: [Dương Tiến Vinh](https://www.linkedin.com/in/duong-tien-vinh).
+- Telegram: [@duckymomo20012](https://t.me/duckymomo20012).
+
+## :gift: Support me:
+
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/DuckyMomo20012)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5LMNAU)
 
-## :robot: Technologies:
+## :robot: Skills:
 
 <table>
     <thead>
         <tr>
             <th></th>
-            <th>Using</th>
+            <th>Practicing</th>
             <th>Learning</th>
-            <th>Interested</th>
         </tr>
     </thead>
     <tbody>
@@ -50,9 +49,6 @@ you! 🤖"/>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32px" alt="go" title="Go"/>
             </td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="32px" alt="graphql" title="GraphQL"/>
-            </td>
         </tr>
         <tr>
             <td>:package: <code>Database</code></td>
@@ -62,8 +58,6 @@ you! 🤖"/>
             </td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="32px" alt="postgres" title="Postgres"/>
-            </td>
-            <td>
             </td>
         </tr>
         <tr>
@@ -77,15 +71,11 @@ you! 🤖"/>
             </td>
             <td>
             </td>
-            <td>
-            </td>
         </tr>
         <tr>
             <td>:open_file_folder: <code>SCM</code></td>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32px" alt="github" title="Github"/>
-            </td>
-            <td>
             </td>
             <td>
             </td>
@@ -97,8 +87,6 @@ you! 🤖"/>
             </td>
             <td>
             </td>
-            <td>
-            </td>
         </tr>
         <tr>
             <td>:art: <code>Design</code></td>
@@ -106,9 +94,6 @@ you! 🤖"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32px" alt="figma" title="Figma"/>
             </td>
             <td>
-            </td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="32px" alt="canva" title="Canva"/>
             </td>
         </tr>
         <tr>
@@ -125,52 +110,14 @@ you! 🤖"/>
             </td>
             <td>
             </td>
-            <td>
-                <!-- Source: https://asana.com/brand -->
-                <img src="https://user-images.githubusercontent.com/64480713/213927473-5c444e3a-ecbe-4a54-aee6-fefc593760e8.svg" height="32px" alt="asana" title="Asana"/>
-            </td>
         </tr>
     </tbody>
 </table>
 
-## :crab: Activities:
+## :crossed_swords: Activities:
 
 <p align="center">
     <img
     src="https://wakatime.com/share/@duckymomo20012/e8e15f75-bcf6-4111-85a6-be6d337a7891.svg"
     height="80%" width="80%" alt="coding-activities" title="My Coding Activities"/>
-</p>
-
-## :chart: Github Stats:
-
-<!-- Light Mode:
-    - title_color= #FFB2BA
-    - text_color= #ECE0E0
-    - icon_color= #E8C08F
-    - bg_color= #524344
-
-    Top Languages config:
-    - layout=compact
-    - langs_count=10 -->
-
-<!-- Dark Mode:
-    - title_color= #B7C4FF
-    - text_color= #E4E1E6
-    - icon_color= #E5BAD9
-    - bg_color= #45464F
-
-    Top Languages config:
-    - layout=compact
-    - langs_count=10 -->
-
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="Duong Vinh's github stats" title="My statistics">
-        <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api?username=DuckyMomo20012&show_icons=true&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github stats" title="My statistics"/>
-    </picture>
-    &nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://duckymomo20012-github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=FFB2BA&text_color=ECE0E0&icon_color=E8C08F&bg_color=524344" alt="Duong Vinh's github most used languages" title="My most used languages">
-        <img align="center" src="https://duckymomo20012-github-readme-stats.vercel.app/api/top-langs/?username=DuckyMomo20012&layout=compact&langs_count=10&&title_color=B7C4FF&text_color=E4E1E6&icon_color=E5BAD9&bg_color=45464F" alt="Duong Vinh's github most used languages" title="My most used languages"/>
-    </picture>
 </p>
